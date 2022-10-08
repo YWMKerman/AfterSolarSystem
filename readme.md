@@ -16,7 +16,7 @@ albeit a very cold one...
 ![screenshot174](https://user-images.githubusercontent.com/78585019/194592030-a01dbbe9-cec6-4e09-b2f9-ba69aec3596e.png)
 __________________________________________________________________________________________________________________________
  
-#### performance requirements
+## performance requirements
 
 In order to show good results your equipment needs at least:
 
