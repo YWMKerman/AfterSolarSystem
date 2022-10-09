@@ -11,11 +11,22 @@ albeit a very cold one...
 ![ASS_02](https://user-images.githubusercontent.com/78585019/194592030-a01dbbe9-cec6-4e09-b2f9-ba69aec3596e.png)
 
  
-## performance requirements
+## requirements：
+### performance requirements：
 In order to show good results your equipment needs at least:
 
-10GB RAM or higher
-1GB or more video memory
+
+*10GB RAM or higher*
+
+*1GB or more video memory*
+### in-game settings：
+
+*Check if you have "Show Earth Time (24 hours a day, 365 days a year)" enabled in your settings If not, turn it on*
+![11](https://user-images.githubusercontent.com/78585019/194764177-da6e5d2f-48b3-4ea3-b3b3-62caa6e6bec1.png)
+
+
+
+
 
 
 
