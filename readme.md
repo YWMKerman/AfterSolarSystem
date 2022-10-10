@@ -4,7 +4,7 @@
 
 # ***Introduce***
 
-## ***story background：***
+## ***Story Background：***
 After Solar System Mod is a mod that simulates a future world: After about 5 billion years, the sun's life will come to an end, when it expands into a red giant star, its volume will expand to more than 200 times larger than the main sequence star stage , objects that are closer to the sun will not be able to survive. It has engulfed Mercury and Venus in the solar system. At this time, the earth was dying, and the huge heat released by the red giant star raised the temperature of the earth to nearly 2,000 degrees Celsius. At the same time, the sun is slowly losing mass, which is causing the orbits of all surviving objects to start moving outwards…
 But the sun has reached the end of the red giant, about to enter the asymptotic giant branch, and then destroy the surviving objects in repeated helium flashes. Then the sun will become a white dwarf, making the solar system a dead silence.
 
