@@ -5,7 +5,11 @@
 # ***Introduce***
 
 ## ***Story Background：***
-After Solar System is a mod that simulates a future world: After about 5 billion years, the sun's life will come to an end, when it expands into a red giant star, its volume will expand to more than 200 times larger than the main sequence star stage , objects that are closer to the sun will not be able to survive. It has engulfed Mercury and Venus in the solar system. At this time, the earth was dying, and the huge heat released by the red giant star raised the temperature of the earth to nearly 2,000 degrees Celsius. At the same time, the sun is slowly losing mass, which is causing the orbits of all surviving objects to start moving outwards…
+After Solar System is a mod that simulates a future world: After about 5 billion years, the sun's life will come to an end, when it expands into a red giant star, its volume will expand to more than 200 times larger than the main sequence star stage , objects that are closer to the sun will not be able to survive. It has engulfed Mercury and Venus in the solar system. At this time, the earth was dying, and the huge heat released by the red giant star raised the temperature of the earth to nearly 2,000 degrees Celsius. 
+The 4 gas giant planets in the solar system have also undergone great changes after the sun became a red giant. At the same time, before the sun became a red giant, a red dwarf passed through the solar system from 800 AU, which made the sun acquire a new planet. 
+
+Our Milky Way also merged with the Andromeda Galaxy in a collision to form a larger galaxy.
+At the same time, the sun is slowly losing mass, which is causing the orbits of all surviving objects to start moving outwards…
 But the sun has reached the end of the red giant, about to enter the asymptotic giant branch, and then destroy the surviving objects in repeated helium flashes. Then the sun will become a white dwarf, making the solar system a dead silence.
 
 ![ASS_02](https://user-images.githubusercontent.com/78585019/194592030-a01dbbe9-cec6-4e09-b2f9-ba69aec3596e.png)
