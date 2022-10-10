@@ -24,6 +24,15 @@ In order to show good results your equipment needs at least:
 *Check if you have "Show Earth Time (24 hours a day, 365 days a year)" enabled in your settings If not, turn it on*
 ![111](https://user-images.githubusercontent.com/78585019/194764856-c6c18118-4177-4670-93e8-bbc839b6e617.png)
 
+# ***Author's Words：***
+
+I'm still a student, and I just learned how to make mods not long ago, and I don't have much time left to make them, but I'll still try to perfect After Solar System in the remaining time.
+And about the copyright, it's ok, you can change it as you like, but please don't forget me because I need to leave something here. I hope some other author someday in the future can make After Solar System even better.
+
+**Finally, I wish you a happy game**
+
+
+
 
 
 
