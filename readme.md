@@ -1,5 +1,5 @@
 # ***The After Solar System Mod***
-![screenshot140](https://user-images.githubusercontent.com/78585019/194590871-bd604e61-52da-4204-831e-82dc5e87bd37.png)
+![lo](https://user-images.githubusercontent.com/78585019/195972099-903f33bd-c207-4be2-8b5d-2460b1de4343.png)
 
 
 # ***Introduce***
@@ -33,7 +33,7 @@ I'm still a student, and I just learned how to make mods not long ago, and I don
 And about the copyright, it's ok, you can change it as you like, but please don't forget me because I need to leave something here. I hope some other author someday in the future can make After Solar System even better.
 
 **Finally, I wish you a happy game**
-![lo](https://user-images.githubusercontent.com/78585019/195972099-903f33bd-c207-4be2-8b5d-2460b1de4343.png)
+
 
 
 
