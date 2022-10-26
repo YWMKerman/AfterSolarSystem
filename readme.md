@@ -11,7 +11,7 @@ The 4 gas giant planets in the solar system have also undergone great changes af
 Our Milky Way also merged with the Andromeda Galaxy in a collision to form a larger galaxy.
 At the same time, The Sun has reached the end of the red giant, about to enter the asymptotic giant branch, and then destroy the surviving objects in repeated helium flashes. The Sun will then become a white dwarf, making the star system a dead ruin. It has become more and more unstable lately, and could erupt at any time. Therefore, it is necessary to prepare to leave this star system as soon as possible and look for new terrestrial planets, which is the only way out.
 ## ***Video：***
-（2022.10.24）https://youtu.be/okdPkfPSm0s
+（2022.10.24）https://youtube.com/watch?v=okdPkfPSm0s&feature=share
 
 # ***Requirements***
 ![222](https://user-images.githubusercontent.com/78585019/197373613-cec4a8d3-a822-4142-9ecc-e631c5ce025b.png)
