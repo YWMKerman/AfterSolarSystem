@@ -1,7 +1,9 @@
 # ***The After Solar System Mod***
 ![lo](https://user-images.githubusercontent.com/78585019/195972099-903f33bd-c207-4be2-8b5d-2460b1de4343.png)
-
+***
 # ***Introduce***
+
+_This is After Solar System Mod, you can also call it Future Solar System Mod.     It simulates what will happen in our solar system 7.9 billion years from now_
 
 ## ***Story Background：***
 ![111](https://user-images.githubusercontent.com/78585019/197373489-e5942187-1790-44c7-b18e-9bc9b9fc47ee.png)
