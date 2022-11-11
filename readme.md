@@ -6,6 +6,25 @@ After Solar System is a mod that simulates a future world: After about 5 billion
 
 Our Milky Way will also merge with the Andromeda Galaxy in a collision to form a larger galaxy. At that time, the Sun has reached the end of its red giant stage, about to enter the asymptotic giant branch, and then destroy the surviving objects in repeated helium flashes. The Sun will then become a white dwarf, leaving this star system a dead ruin. It has become more and more unstable lately, and could erupt at any time. Therefore, it is necessary to prepare to leave this star system as soon as possible and seek for new terrestrial planets, which is the only way out, for humankind.
 ***
+
+# ***Compatibility***
+### _***The following are After Solar System compatible ambient vision enhancement mods:***_
+- Environmental Visual Enhancements
+- Scatterer
+- Distant Object Enhancement
+- Kopernicus Expansion
+- Sigma Replacements: Skybox
+- TUFX
+- PlanetShine
+
+### _***The following are incompatible ambient vision enhancement mods for After Solar System:***_
+- RSSVE
+- RVE
+- EVO
+- AVP
+
+**（Mods similar to the above will not work properly in After Solar System）**
+
 ## ***Video：***
 （2022.10.24）https://youtube.com/watch?v=okdPkfPSm0s&feature=share
 
