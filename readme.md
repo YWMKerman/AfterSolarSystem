@@ -12,7 +12,6 @@ Our Milky Way will also merge with the Andromeda Galaxy in a collision to form a
 - Environmental Visual Enhancements
 - Scatterer
 - Distant Object Enhancement
-- Kopernicus Expansion
 - Sigma Replacements: Skybox
 - TUFX
 - PlanetShine
