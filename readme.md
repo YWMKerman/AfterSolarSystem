@@ -22,6 +22,10 @@ Our Milky Way will also merge with the Andromeda Galaxy in a collision to form a
 - EVO
 - AVP
 
+### _***Recommended mods to install:***_
+- KSPIE
+-
+
 **（Mods similar to the above will not work properly in After Solar System）**
 
 ## ***Video：***
