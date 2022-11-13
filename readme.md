@@ -26,8 +26,7 @@ Our Milky Way will also merge with the Andromeda Galaxy in a collision to form a
 - KSPIE
 - Better Time Warp (unless you can live with 300+ years of time acceleration)
 
-## ***Video：***
-（2022.10.24）https://youtube.com/watch?v=okdPkfPSm0s&feature=share
+***
 
 # ***Requirements***
 ![AfterSolarSystem_02](https://user-images.githubusercontent.com/78585019/201315608-36a912a1-31e4-4e7a-b87c-82c4e31ff5d4.png)
