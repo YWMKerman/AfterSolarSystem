@@ -24,7 +24,7 @@ Our Milky Way will also merge with the Andromeda Galaxy in a collision to form a
 
 ### _***Recommended mods to install:***_
 - KSPIE
--
+- Better Time Warp (unless you can live with 300+ years of time acceleration)
 
 **（Mods similar to the above will not work properly in After Solar System）**
 
