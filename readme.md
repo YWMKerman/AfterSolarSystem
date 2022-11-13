@@ -30,6 +30,7 @@ Our Milky Way will also merge with the Andromeda Galaxy in a collision to form a
 
 ***
 # ***Requirements***
+![AfterSolarSystem_03](https://user-images.githubusercontent.com/78585019/201504802-7d1d11f3-78e1-43d3-b4ec-5066a88aecbf.png)
 ## *Performance Requirements：*
 In order to show good results your equipment needs at least:
 
