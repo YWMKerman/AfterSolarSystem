@@ -44,9 +44,7 @@ In order to show good results your equipment needs at least:
 
 ***
 # ***Author's Words：***
-
-I'm still a student, and I just learned how to make mods not long ago, and I don't have much time left to make them, but I'll still try to perfect After Solar System in the remaining time.
-And about the copyright, it's ok, you can change it as you like, but please don't forget me because I need to leave something here. I hope some other author someday in the future can make After Solar System even better.
+I am a senior middle school student who is new to KSP Mod production. I don't have much time to complete the production. Basically, I only have time to continue the production of AfterSolarSystem on Friday nights, Saturdays, and Sundays. Of course, it is not ruled out that I will play other games on weekends. This AfterSolarSystem Mod actually started in 2020, but it was further ahead in the storyline at that time, but then I gave up, so the plan was shelved. But in September 2022, I decided to start making again... 
 
 **Finally, I wish you a happy game**
 
