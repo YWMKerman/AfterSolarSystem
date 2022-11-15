@@ -1,4 +1,9 @@
 # ***The After Solar System Mod***
+
+_At this moment, the sun becomes a very bright star, illuminating the path ahead of you, so that you will not lose your way in the dark and lose your goal align......_
+                      
+_<p align="right">-YWMKerman</p>_
+
 ![AfterSolarSystem_01](https://user-images.githubusercontent.com/78585019/201314116-b0e765b8-4e66-4781-b82c-d6de8cae90d5.png)
 # ***Introduce***
 ### ***Story Background：***
