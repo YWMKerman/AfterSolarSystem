@@ -13,7 +13,7 @@ Our Milky Way will also merge with the Andromeda Galaxy in a collision to form a
 ***
 
 # ***Compatibility***
-![AfterSolarSystem_02](https://user-images.githubusercontent.com/78585019/201504336-add1d435-277a-4ed9-b119-49407b40e145.png)
+![1](https://user-images.githubusercontent.com/78585019/206646561-415598c7-c52e-4203-952d-4f40209d96a0.png)
 
 ### _***The following are After Solar System compatible ambient vision enhancement mods:***_
 - Environmental Visual Enhancements
