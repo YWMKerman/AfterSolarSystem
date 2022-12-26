@@ -34,7 +34,15 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 - RAM at least equal to or greater than 10GB
 - It is best to use a graphics card with 2G or higher video memory
 
-***
+#  _****Installation Mod****_
+## _****Required To Function:****_
+- [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
+- [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
+- [KopernicusExpansion](https://github.com/StollD/KopernicusExpansion-Continued/releases/tag/release-1.7.1-5)
+
+
+
+
 # ***Gallery***
 ![Neptune_Watch_Ethyal](https://user-images.githubusercontent.com/78585019/209554573-8f649aee-e672-41d6-8939-f09c81649e68.png)
 
