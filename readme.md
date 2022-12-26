@@ -15,23 +15,16 @@ Our Milky Way will also merge with the Andromeda Galaxy in a collision to form a
 # ***Compatibility***
 ![1](https://user-images.githubusercontent.com/78585019/206646561-415598c7-c52e-4203-952d-4f40209d96a0.png)
 
-### _***The following are After Solar System compatible ambient vision enhancement mods:***_
-- Environmental Visual Enhancements
-- Scatterer
-- Distant Object Enhancement
-- Sigma Replacements: Skybox
-- TUFX
-- PlanetShine
-
-### _***The following are incompatible ambient vision enhancement mods for After Solar System:***_
-- RSSVE
-- RVE
-- EVO
-- AVP
-
-### _***Recommended mods to install:***_
-- KSPIE
-- Better Time Warp (unless you can live with 300+ years of time acceleration)
+## _***It is compatible with the following visual enhancement modules***_
+- [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
+- [Scatterer](https://spacedock.info/mod/141/Scatterer)
+- [Distant Object Enhancement](https://spacedock.info/mod/2274/Distant%20Object%20Enhancement%20Continued)
+- [Sigma Replacements: Skybox](https://github.com/Sigma88/Sigma-Replacements/releases)
+- [TUFX](https://github.com/shadowmage45/TUFX/releases)
+- [KS3P](https://github.com/c1usta/KS3P/releases)
+## _***Recommended mods to install:***_
+- [KSPIE](https://spacedock.info/mod/172/KSP%20Interstellar%20Extended)
+- [Better Time Warp](https://spacedock.info/mod/1162/BetterTimeWarpContinued)
 
 ***
 # ***Requirements***
@@ -46,6 +39,16 @@ In order to show good results your equipment needs at least:
 ## *In-game Settings：*
 *Check if you have "Show Earth Time (24 hours a day, 365 days a year)" enabled in your settings If not, turn it on*
 ![111](https://user-images.githubusercontent.com/78585019/194764856-c6c18118-4177-4670-93e8-bbc839b6e617.png)
+
+***
+# ***Gallery***
+![Neptune_Watch_Ethyal](https://user-images.githubusercontent.com/78585019/209554573-8f649aee-e672-41d6-8939-f09c81649e68.png)
+
+
+
+
+
+
 
 ***
 # ***Author's Words：***
