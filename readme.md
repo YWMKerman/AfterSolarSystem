@@ -39,7 +39,9 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
 - [KopernicusExpansion](https://github.com/StollD/KopernicusExpansion-Continued/releases/tag/release-1.7.1-5)
-
+- *Check if you have "Show Earth Time (24 hours a day, 365 days a year)" enabled in your settings If not, turn it on*
+- ![111](https://user-images.githubusercontent.com/78585019/194764856-c6c18118-4177-4670-93e8-bbc839b6e617.png)
+- [Scatterer](https://spacedock.info/mod/141/Scatterer)
 
 
 
