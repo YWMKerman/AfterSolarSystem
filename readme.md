@@ -46,7 +46,7 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 **↑ Download the above file and unzip it, then copy it into GameData**
 
 If the situation in the following pictures appears, it means that your installation is wrong
-![SETUP_ERROR_1](https://user-images.githubusercontent.com/78585019/209589393-605bf83d-0a1c-410e-ad8f-e3f660c53313.PNG)
+![SETUP_ERROR_1](https://user-images.githubusercontent.com/78585019/209589940-3398ef49-e8d4-4e9f-9a62-bf289cc318aa.PNG)
 - *In this case, you need to move the data of this GameData out, and the situation of "KSP/GameData/GameData" cannot appear*
 
 ***
