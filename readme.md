@@ -20,6 +20,7 @@ Our Milky Way will also merge with the Andromeda Galaxy in a collision to form a
 - [Sigma Replacements: Skybox](https://github.com/Sigma88/Sigma-Replacements/releases)
 - [TUFX](https://github.com/shadowmage45/TUFX/releases)
 - [KS3P](https://github.com/c1usta/KS3P/releases)
+
 ### _***AfterSolarSystem is not compatible with the following mods:***_
 - External visual mods (RVE,RSSVE,EVO,...)
 - External planet mods (RSS,AfterKerbin,BeyondHome，...)
@@ -35,19 +36,22 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 - It is best to use a graphics card with 2G or higher video memory
 
 #  _****Installation Mod****_
-## _****Required To Function:****_
+### _****Required To Function:****_
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
 - [KopernicusExpansion](https://github.com/StollD/KopernicusExpansion-Continued/releases/tag/release-1.7.1-5)
-- *Check if you have "Show Earth Time (24 hours a day, 365 days a year)" enabled in your settings If not, turn it on*
-- ![111](https://user-images.githubusercontent.com/78585019/194764856-c6c18118-4177-4670-93e8-bbc839b6e617.png)
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
 
 **↑ Download the above file and unzip it, then copy it into GameData**
 
-If the situation in the following pictures appears, it means that your installation is wrong
-![SETUP_ERROR_1](https://user-images.githubusercontent.com/78585019/209589940-3398ef49-e8d4-4e9f-9a62-bf289cc318aa.PNG)
-- *In this case, you need to move the data of this GameData out, and the situation of "KSP/GameData/GameData" cannot appear*
+
+#### _****In-game settings：****_
+- *Check if you have "Show Earth Time (24 hours a day, 365 days a year)" enabled in your settings If not, turn it on*
+![In-game settings](https://user-images.githubusercontent.com/78585019/194764856-c6c18118-4177-4670-93e8-bbc839b6e617.png)
+
+
+
+
 
 ***
 # ***Gallery***
