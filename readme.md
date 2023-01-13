@@ -50,13 +50,18 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 - *Check if you have "Show Earth Time (24 hours a day, 365 days a year)" enabled in your settings If not, turn it on*
 ![In-game settings](https://user-images.githubusercontent.com/78585019/194764856-c6c18118-4177-4670-93e8-bbc839b6e617.png)
 
+***
+# ***Author's Words：***
+I am a senior middle school student who is new to KSP Mod production. I don't have much time to complete the production. Basically, I only have time to continue the production of AfterSolarSystem on Friday nights, Saturdays, and Sundays. Of course, it is not ruled out that I will play other games on weekends. This AfterSolarSystem mod actually started in 2020, but then I gave up and the plan was shelved. But in September 2022, I decided to start making again... 
 
+**Finally, I wish you a happy game**
 
 
 
 ***
 # ***Gallery***
 ![Neptune_Watch_Ethyal](https://user-images.githubusercontent.com/78585019/209554573-8f649aee-e672-41d6-8939-f09c81649e68.png)
+![Pluto](https://user-images.githubusercontent.com/78585019/212247313-7194eb3c-f036-467d-835a-5d87aa136627.png)
 
 
 
@@ -64,11 +69,7 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 
 
 
-***
-# ***Author's Words：***
-I am a senior middle school student who is new to KSP Mod production. I don't have much time to complete the production. Basically, I only have time to continue the production of AfterSolarSystem on Friday nights, Saturdays, and Sundays. Of course, it is not ruled out that I will play other games on weekends. This AfterSolarSystem mod actually started in 2020, but then I gave up and the plan was shelved. But in September 2022, I decided to start making again... 
 
-**Finally, I wish you a happy game**
 
 
 
