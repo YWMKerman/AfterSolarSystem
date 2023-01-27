@@ -57,7 +57,7 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 
 ***
 # ***Author's Words：***
-I am a senior middle school student who is new to KSP Mod production. I don't have much time to complete the production. Basically, I only have time to continue the production of AfterSolarSystem on Friday nights, Saturdays, and Sundays. Of course, it is not ruled out that I will play other games on weekends. This AfterSolarSystem mod actually started in 2020, but then I gave up and the plan was shelved. But in September 2022, I decided to start making again... 
+I am a senior middle school student who is new to KSP Mod production. I don't have much time to complete the production. Basically, I only have time to continue the production of AfterSolarSystem on Friday nights, Saturdays, and Sundays. Of course, it is not ruled out that I will play other games on weekends. This AfterSolarSystem mod actually started in 2020, but then I gave up and the plan was shelved. But in September 2022, I decided to start making again...
 
 **Finally, I wish you a happy game**
 
