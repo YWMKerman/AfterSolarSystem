@@ -25,7 +25,7 @@ _The sun in this mod is in the initial AGB (Asymptotic Giant Branch) phase. Let'
 
 ### _***AfterSolarSystem is not compatible with the following mods:***_
 - External visual mods (RVE, RSSVE, EVO, etc.)
-- External planet mods (RealSolarSystem, AfterKerbin, BeyondHome，etc.)
+- External planet mods (RealSolarSystem, AfterKerbin, BeyondHome, etc.)
 
 ### _***Recommended mods to install:***_
 - [KSPIE](https://spacedock.info/mod/172/KSP%20Interstellar%20Extended)
