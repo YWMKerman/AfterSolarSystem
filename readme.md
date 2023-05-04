@@ -37,15 +37,15 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 - RAM at least equal to or greater than 10GB
 - It is best to use a graphics card with 2G or higher video memory
 
-#  _****Installation Mod****_
-### _****Required To Function:****_
+#  _****Mod Installation****_
+### _****Requirements:****_
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
 - [KopernicusExpansion](https://github.com/StollD/KopernicusExpansion-Continued/releases/tag/release-1.7.1-5)
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
 - [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)
 
-**↑ Download the above file and unzip it, then copy it into GameData**
+**↑ Download the files above and unzip them, then copy them into [KSP_Root]/GameData**
 
 
 #### _****In-game settings：****_
