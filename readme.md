@@ -1,16 +1,16 @@
 # _****The After Solar System Mod****_
 
-_At this moment, the sun becomes a very bright star, illuminating the path ahead of you, so that you will not lose your way in the dark and lose your goal align......_
+_At a moment after about 10 billion years, the sun becomes a very bright star, devouring everything surrounding its rapidly growing body, then the solar system turns into ruins all of a sudden......_
                       
 _<p align="right">- YWMKerman</p>_
 
 ![AfterSolarSystem_01](https://user-images.githubusercontent.com/78585019/201314116-b0e765b8-4e66-4781-b82c-d6de8cae90d5.png)
-# _****Introduce****_
-_After Solar System, you can also call it Future Solar System. This mod simulates the scenario of the solar system 7.9 billion years after according to the prediction_ _under the current situation of our solar system:_ 
+# _****Introduction****_
+_After Solar System, also called Future Solar System, aims to simulate the scenario of the solar system 7.9 billion years later according to the prediction which is made in the current situation of our solar system:_ 
 
-_The sun stays in the main sequence stage for about 10 billion years. After 10 billion years, the sun will leave the main sequence stage. It will expand into a red giant, devouring the objects close to it, such as Mercury and Venus. Then the sun will enter helium flash phase, which makes the moons of Jupiter, Saturn and Uranus lose all their ice. At the same time, the mass of the sun is also slowly decreasing in the substance ejections. At that time, the orbits of all surviving celestial bodies will move outward. But even so, the heat from the sun will make the temperature of Uranus rise to tens of degrees Celsius above zero. Meanwhile, life can only survive under the proper level of light and heat, where it is very far away from the sun._
+_The sun will stay in the current stage for about 10 billion years before leaving the main sequence stage. Then it will expand into a red giant, devouring the objects surrounding it, including Mercury and Venus, and entering helium flash phase which might cause ice disappearing on the moons of Jupiter, Saturn and Uranus. The orbits of all surviving celestial bodies will move outward, and the heat from the sun will make the temperature of Uranus rise to tens of degrees Celsius above zero. During the process, the mass of the sun will slowly decrease due to the substance ejections. Meanwhile, life can only survive in the proper level of light and heat, where it is very far away from the sun._
 
-_The sun in this mod is in the initial AGB (Asymptotic Giant Branch) phase. Let's put aside the mod, the sun will become more and more unstable in the future, and may erupt again at any time. It will destroy all the surviving celestial bodies in successive eruptions and turn the system into a ruin. Finally, the sun will end its AGB phase that lasted only 800 thousand years and become a white dwarf, making the solar system a dead silence._
+_In this mod, the time is set to when the sun in in its initial AGB (Asymptotic Giant Branch) phase. During the phase, the sun becomes more and more unstable, and may erupt again at any time according the prediction. It will destroy all the surviving celestial bodies during successive eruptions and turn the solar system into ruins. Finally, the sun will end its AGB phase that lasted only 800 thousand years and become a white dwarf, making the solar system a dead silence._
 
 # _****Compatibility and Hardware Requirements****_
 ![1](https://user-images.githubusercontent.com/78585019/206646561-415598c7-c52e-4203-952d-4f40209d96a0.png)
