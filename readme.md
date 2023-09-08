@@ -1,8 +1,8 @@
 # _****The After Solar System Mod****_
 
-_At a moment after about 10 billion years, the sun becomes a very bright star, devouring everything surrounding its rapidly growing body, then the solar system turns into ruins all of a sudden......_
+_“夜空中最亮的星，请照耀我前行”_
                       
-_<p align="right">- YWMKerman</p>_
+_<p align="right">- 《夜空中最亮的星》 </p>_
 
 ![AfterSolarSystem_01](https://user-images.githubusercontent.com/78585019/201314116-b0e765b8-4e66-4781-b82c-d6de8cae90d5.png)
 # _****Introduction****_
