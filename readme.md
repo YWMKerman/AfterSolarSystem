@@ -1,5 +1,10 @@
-![标题-1](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/9454b7b2-e1c8-4d1f-9c29-fabe6e675e61)
-![标题-2](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/00970460-de4d-4ff4-b62d-8c77d57d0aee)
+# _****The After Solar System Mod****_
+
+_“每当我找不到存在的意义，每当我迷失在黑夜里，夜空中最亮的星，请照耀我前行”_
+
+_<p align="right">- 《夜空中最亮的星》 </p>_
+
+![AfterSolarSystem_01](https://user-images.githubusercontent.com/78585019/201314116-b0e765b8-4e66-4781-b82c-d6de8cae90d5.png)
 _After Solar System, also called Future Solar System, aims to simulate the scenario of the solar system 7.9 billion years later according to the prediction which is made in the current situation of our solar system:_ 
 
 _The sun will stay in the current stage for about 10 billion years before leaving the main sequence stage. Then it will expand into a red giant, devouring the objects surrounding it, including Mercury and Venus, and entering helium flash phase which might cause ice disappearing on the moons of Jupiter, Saturn and Uranus. The orbits of all surviving celestial bodies will move outward, and the heat from the sun will make the temperature of Uranus rise to tens of degrees Celsius above zero. During the process, the mass of the sun will slowly decrease due to the substance ejections. Meanwhile, life can only survive in the proper level of light and heat, where it is very far away from the sun._
