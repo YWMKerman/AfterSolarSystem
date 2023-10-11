@@ -5,6 +5,7 @@ _“每当我找不到存在的意义，每当我迷失在黑夜里，夜空中�
 _<p align="right">- 《夜空中最亮的星》 </p>_
 
 ![AfterSolarSystem_01](https://user-images.githubusercontent.com/78585019/201314116-b0e765b8-4e66-4781-b82c-d6de8cae90d5.png)
+# _****Introduction****_
 _After Solar System, also called Future Solar System, aims to simulate the scenario of the solar system 7.9 billion years later according to the prediction which is made in the current situation of our solar system:_ 
 
 _The sun will stay in the current stage for about 10 billion years before leaving the main sequence stage. Then it will expand into a red giant, devouring the objects surrounding it, including Mercury and Venus, and entering helium flash phase which might cause ice disappearing on the moons of Jupiter, Saturn and Uranus. The orbits of all surviving celestial bodies will move outward, and the heat from the sun will make the temperature of Uranus rise to tens of degrees Celsius above zero. During the process, the mass of the sun will slowly decrease due to the substance ejections. Meanwhile, life can only survive in the proper level of light and heat, where it is very far away from the sun._
