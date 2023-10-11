@@ -1,5 +1,6 @@
-![标题_1](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/96f507e6-f8f8-41ea-8f0a-b6301fa56e5e)
+![标题-1](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/50ebb11c-2deb-4619-ab54-ecc0e3b50732)
 # _****Introduction****_
+
 _After Solar System, also called Future Solar System, aims to simulate the scenario of the solar system 7.9 billion years later according to the prediction which is made in the current situation of our solar system:_ 
 
 _The sun will stay in the current stage for about 10 billion years before leaving the main sequence stage. Then it will expand into a red giant, devouring the objects surrounding it, including Mercury and Venus, and entering helium flash phase which might cause ice disappearing on the moons of Jupiter, Saturn and Uranus. The orbits of all surviving celestial bodies will move outward, and the heat from the sun will make the temperature of Uranus rise to tens of degrees Celsius above zero. During the process, the mass of the sun will slowly decrease due to the substance ejections. Meanwhile, life can only survive in the proper level of light and heat, where it is very far away from the sun._
