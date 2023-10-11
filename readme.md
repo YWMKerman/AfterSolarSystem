@@ -61,7 +61,8 @@ I am a senior middle school student who is new to KSP Mod production. I don't ha
 # ***Gallery***
 ![Neptune_Watch_Ethyal](https://user-images.githubusercontent.com/78585019/209554573-8f649aee-e672-41d6-8939-f09c81649e68.png)
 ![Pluto](https://user-images.githubusercontent.com/78585019/212247313-7194eb3c-f036-467d-835a-5d87aa136627.png)
-![Muna](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/5c3483aa-71b6-4cf6-8e1c-c419947e1208)
+![Muna](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/38764413-ba56-41b1-beb3-eda346cf9ead)
+
 
 
 
