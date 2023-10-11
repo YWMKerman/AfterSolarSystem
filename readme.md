@@ -1,4 +1,3 @@
-# _****The After Solar System Mod****_
 ![标题_1](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/96f507e6-f8f8-41ea-8f0a-b6301fa56e5e)
 # _****Introduction****_
 _After Solar System, also called Future Solar System, aims to simulate the scenario of the solar system 7.9 billion years later according to the prediction which is made in the current situation of our solar system:_ 
