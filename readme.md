@@ -59,7 +59,7 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 
 ***
 # ***Author's Words：***
-***This is an "Eternal Light Project" plan. You can think of it as a tombstone. The Everlasting Light Project was created by a transgender woman who suffered from severe depression and didn't want to be forgotten soon after her death. She is Snow***
+***This is an "Eternal Light Project" plan. You can think of it as a tombstone. The Everlasting Light Project was created by a transgender woman who suffered from severe depression and didn't want to be forgotten soon after her death. She is Snow.She lives in pain in this world. Her family does not understand her and abuses her. I hope that after her death she can become a real woman in another world and live happily.***
 
 
 
