@@ -1,0 +1,32 @@
+
+
+  1:  Flares for the Sun and all stars in the Moryuan system are modified from the Mod "Kabrams Sun Flares Pack for Scatterer"
+_____________________________________________________________________________________________________________________________
+  2:  BY RVE 2.0:
+
+        Muna Cloud
+        Aurora
+        DetailCloudParticle
+        AuroraDetail(DetailAurora)
+        DetaukCloudParticle
+        Detail1(DetailAltostratus)
+        Detail3(DetailCumulus)
+        Detail2(DetailGasGiant)
+_____________________________________________________________________________________________________________________________
+  3: BY RealSolarSystem:
+
+        "CommNet_Ranges"
+        "ContractModifier"
+        "CustomAsteroids"
+        "FARAtmospheres"
+        "SCANsat"                          (I need to adapt to RO, but I can't do it Alone)
+        "AfterSolarSystem"       
+        "DSN_Ranges"
+        "PhysicsModifier" 
+               
+_____________________________________________________________________________________________________________________________
+
+
+1:  修复气态巨行星“区块云层”的问题
+2： 修复Hades大气层边缘的问题
+3： 修复了Moryan，以及行星9在“生涯模式”科技点获得数量异常的问题
