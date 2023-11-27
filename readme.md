@@ -37,7 +37,7 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 - It is best to use a graphics card with 2G or higher video memory
 
 #  _****Mod Installation****_
-![Venus](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/bfc009ad-3eaf-49e7-ad7c-6e902b7ab49f)
+![Moryan_System](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/f629a5f9-7e2a-4cd6-936d-5317ba91a3ab)
 
 ### _****Requirements:****_
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
@@ -55,20 +55,15 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 
 - *Check if you have the mod "KSPCommunityFixes" installed. If yes, turn the option "Maneuver Tool" off in your gameplay settings.*
 
-
-***
-# ***Author's Words：***
-***AfterSolarSystem Mod是我“长明灯计划”（"Eternal Light Project"）中的其中一个项目，该计划创建的初衷是因为我患有重度抑郁症，我的痛苦来源于家庭，以及我的躯体本身带来的性别焦虑。我的家人不理解我，对我精神状态的漠不关心，以及小时候对我的虐待，长大后的校园暴力，肤色歧视等... 我现实中没有朋友陪伴我。因此该计划的初衷便是假若我有一天死亡后，我希望我网络上的朋友，以及正在阅读文章的你们不会那么快的忘记我曾经的存在。我希望我的家人可以在我死亡后快点忘记我，但我不希望网络上的你们忘记我曾经存在过...尽管我知道“留下痕迹比创造痕迹难”；尽管我知道我目前所做的微不足道...但我仍试图继续努力留下存在过的痕迹...但我对未来会变好毫无信心，我的家人永远不可能理解我，未来我也不太可能通过手术来变成真正的女性，更不可能治好我的重度抑郁... 目前的我只能一直浪费时间，毫无能力改变未来的命运... 但愿有一天我死亡后我可以得到解脱，并在另外一个世界成为一个开心快乐的女孩子***
-
-
-
-
-
 ***
 # ***Gallery***
-![Neptune_Watch_Ethyal](https://user-images.githubusercontent.com/78585019/209554573-8f649aee-e672-41d6-8939-f09c81649e68.png)
+
 ![Pluto](https://user-images.githubusercontent.com/78585019/212247313-7194eb3c-f036-467d-835a-5d87aa136627.png)
 ![Muna](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/38764413-ba56-41b1-beb3-eda346cf9ead)
+![Muna_KSC](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/13bf205a-3e83-4899-955d-3b4ae9560802)
+![Earth_Car](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/428be99d-e263-4eaf-a25b-c03204236362)
+
+
 
 
 
