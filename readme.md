@@ -37,7 +37,6 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 - It is best to use a graphics card with 2G or higher video memory
 
 #  _****Mod Installation****_
-![Moryan_System](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/f629a5f9-7e2a-4cd6-936d-5317ba91a3ab)
 
 ### _****Requirements:****_
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
