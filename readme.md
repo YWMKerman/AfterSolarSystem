@@ -12,7 +12,7 @@ _The sun will stay in the current stage for about 10 billion years before leavin
 _In this mod, the time is set to when the sun in in its initial AGB (Asymptotic Giant Branch) phase. During the phase, the sun becomes more and more unstable, and may erupt again at any time according the prediction. It will destroy all the surviving celestial bodies during successive eruptions and turn the solar system into ruins. Finally, the sun will end its AGB phase that lasted only 800 thousand years and become a white dwarf, making the solar system a dead silence._
 
 # _****Compatibility and Hardware Requirements****_
-![image](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/868c3082-3a0a-46ea-aeb0-2355f85235dd)
+![1](https://user-images.githubusercontent.com/78585019/206646561-415598c7-c52e-4203-952d-4f40209d96a0.png)
 
 
 ### _***AfterSolarSystem is compatible with (or provides support for) the following mods:***_
@@ -39,7 +39,8 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 - It is best to use a graphics card with 2G or higher video memory
 
 #  _****Mod Installation****_
-![3](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/550b38b6-9854-48e1-99ca-2662640c0b2c)
+![3](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/ec1640dc-d5c4-417f-824d-2ec7393561ef)
+
 ### _****Requirements:****_
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
