@@ -26,6 +26,7 @@ _In this mod, the time is set to when the sun in in its initial AGB (Asymptotic 
 ### _***AfterSolarSystem is not compatible with the following mods:***_
 - External visual mods (RVE, RSSVE, EVO, etc.)
 - External planet mods (RealSolarSystem, AfterKerbin, BeyondHome, etc.)
+- Principia
 
 ### _***Recommended mods to install:***_
 - [KSPIE](https://spacedock.info/mod/172/KSP%20Interstellar%20Extended)
