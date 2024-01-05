@@ -3,7 +3,7 @@
 _“每当我找不到存在的意义，每当我迷失在黑夜里，夜空中最亮的星，请照耀我前行”_
 
 _<p align="right">- 《夜空中最亮的星》 </p>_
-![AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/3cda3875-c2de-4c1c-93b2-345d3b800320)
+![ASS](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/d4ee4497-96ed-4334-9933-59fdd7419187)
 # _****Introduction****_
 _After Solar System, also called Future Solar System, aims to simulate the scenario of the solar system 7.9 billion years later according to the prediction which is made in the current situation of our solar system:_ 
 
