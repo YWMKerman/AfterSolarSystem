@@ -1,6 +1,0 @@
-This is an expansion pack for AfterSolarSystem Mod,It adds a cluster of several stars near the sun.
-The distance between stars in a cluster is calculated so that there is no possibility of collision. 
-The possibility and stability of the star system have been simulated and confirmed.
-
-
-ASSEX mod inspiration provided by: Linfox （玲狐子）
