@@ -36,7 +36,7 @@ _**Article 1: In this equation, Δ represents heat. MgCO3 (magnesium carbonate) 
 
 _**Article 2: CaCO3 (calcium carbonate) decomposes into CaO (calcium oxide) and CO2 (carbon dioxide) under heating conditions**_
 
-_So, you know why the earth is heating up rapidly, right? The large amount of carbon dioxide produced entering the earth's atmosphere will produce a serious greenhouse effect. Thick clouds will block the sky and the sun. At this time, the earth's surface temperature can reach 2400 degrees Celsius!
+_So, you know why the earth is heating up rapidly, right? A large amount of carbon dioxide produced by the decomposition of carbonates enters the earth's atmosphere will produce a serious greenhouse effect. At this time, the earth's surface temperature can reach 2400 degrees Celsius!
 After the sun gradually enters the red giant stage, the strong solar wind will gradually strip away the earth's thick atmosphere...  Then the sun will undergo a helium flash, then enter the asymptotic giant stage, and finally become a white dwarf star._ 
 
 _Our planet may be able to survive the repeated expansion and contraction of progressive giant stars..._
