@@ -16,8 +16,12 @@ The rate of this runaway reaction can climb to about 100 billion times normal en
 
 _At this point, the sun's life will completely come to an end._
 
+### ***_In this MOD:_***
+_In AfterSolarSystem, the timeline is set before the sun's helium flash. At this time, the earth had no signs of life. It had extremely high temperatures, hot lava flowed on the surface of the planet, and a thick atmosphere blocked the sky and the sun. Even Titan, known as the most Earth-like body in the solar system, has seen temperatures rise to the point where life is uninhabitable.
+Before this, the sun captured a rogue planet "Muna" which is a planet slightly larger than us. Originally, Muna orbited a red dwarf star much smaller than the sun. But when the star system Billion moved to a position about 800 AU from the solar system, Muna was affected by the gravity of the sun and broke away from its original orbit around the red dwarf star. It began to approach the solar system along the ecliptic and approached the sun, and eventually Muna was captured by the sun. After repeated gravitational ejections from Jupiter and Saturn, its orbit eventually stabilized. After environmental modification, the plants located in Muna produced enough oxygen to make Muna's atmosphere breathable by humans. At this time, the sun has entered the red giant stage. In the red giant stage, Muna's temperature gradually increases, but is still relatively low. The average surface temperature is only about 10 degrees Celsius. Huge ice caps cover both poles of the Earth. If you live on this celestial body, you may need to wear thick clothing to go outdoors, otherwise you are likely to get frostbite or hypothermia; especially at night, its temperature can drop to close to zero degrees Celsius._
+_At this moment, the ice on Pluto, located in the Kuiper Belt, is also gradually melting, making this once cold and distant world seem to have a glimmer of life. But we can't stay in the solar system at this moment. The sun is very dangerous now, and it may have a helium flash at any time..._ 
 
-_In this mod, the time is set to when the sun in in its initial AGB (Asymptotic Giant Branch) phase. During the phase, the sun becomes more and more unstable, and may erupt again at any time according the prediction. It will destroy all the surviving celestial bodies during successive eruptions and turn the solar system into ruins. Finally, the sun will end its AGB phase that lasted only 800 thousand years and become a white dwarf, making the solar system a dead silence._
+_***We have to leave as soon as possible, let's take action!***_
 
 # _****Compatibility and Hardware Requirements****_
 ![1](https://user-images.githubusercontent.com/78585019/206646561-415598c7-c52e-4203-952d-4f40209d96a0.png)
