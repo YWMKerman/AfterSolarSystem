@@ -3,7 +3,8 @@
 _“每当我找不到存在的意义，每当我迷失在黑夜里，夜空中最亮的星，请照耀我前行”_
 
 _<p align="right">- 《夜空中最亮的星》 </p>_
-![ASS](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/d4ee4497-96ed-4334-9933-59fdd7419187)
+![A](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/5e64d1c5-c479-47a2-ae27-fc4ee570bd3e)
+***
 # _****Introduction****_
 ***AfterSolarSystem Mod is based on the current situation of our solar system and estimates what the solar system may look like in 7.9 billion years. This Mod is based on the "[History and Future of the Solar System](https://youtu.be/d27exZfXzsc?si=KvIiFQNL578fBlLS)" video by YouTube video author Algol with certain modifications. Some other references have been added to it, such as: the increase in the eccentricity of Mars' orbit and the colors of the four gaseous planets Change, capture rogue planets, etc...***
 
