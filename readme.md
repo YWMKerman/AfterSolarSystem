@@ -16,13 +16,39 @@ The rate of this runaway reaction can climb to about 100 billion times normal en
 
 _At this point, the sun's life will completely come to an end._
 
+_***We have to leave as soon as possible, let's take action!***_
+
+### ***_The evolution of The Earth:_***
+_***The evolution of the earth is based on Wikipedia information and Youtube author MrPlasma "[Timeline of the Earth: From its Formation to Destruction](https://youtu.be/Zn6fcA2JkPg?si=f7ygQW7oZY9VgrIB)"***_.
+
+_The evolution of the Earth does not take into account other influences (such as the greenhouse effect, supernova explosions, large asteroids hitting the Earth and other random celestial events)
+Other large-scale geological events are more predictable. Milankovitch's theory predicts that the planet will continue to undergo glacial periods at least until the Quaternary glaciation comes to an end. These periods are caused by the variations in eccentricity, axial tilt, and precession of Earth's Orbit.
+As part of the ongoing supercontinent cycle, plate tectonics will probably result in a supercontinent in 250–350 million years. Sometime in the next 1.5–4.5 billion years, Earth's axial tilt may begin to undergo chaotic variations, with changes in the axial tilt of up to 90°.
+In about one billion years, the solar luminosity will be 10% higher, causing the atmosphere to become a "moist greenhouse", resulting in a runaway evaporation of the oceans. As a likely consequence, plate tectonics and the entire carbon cycle will end. Following this event, in about 2–3 billion years, the planet's magnetic dynamo may cease, causing the magnetosphere to decay and leading to an accelerated loss of volatiles from the outer atmosphere. Four billion years from now, the increase in Earth's surface temperature will cause a runaway greenhouse effect, creating conditions more extreme than present-day Venus and heating Earth's surface enough to melt it. By that point, all life on Earth will be extinct._
+
+_***So, why is the temperature of the earth increasing so much? Please see the following two chemical formulas:***_
+
+- **MgCO3 =△=MgO+CO2**
+
+- **CaCO3=△=CaO+CO2**
+
+_**Article 1: In this equation, Δ represents heat. MgCO3 (magnesium carbonate) decomposes into MgO (magnesium oxide) and CO2 (carbon dioxide) under heating conditions.**_
+
+_**Article 2: CaCO3 (calcium carbonate) decomposes into CaO (calcium oxide) and CO2 (carbon dioxide) under heating conditions**_
+
+_So, you know why the earth is heating up rapidly, right? The large amount of carbon dioxide produced entering the earth's atmosphere will produce a serious greenhouse effect. Thick clouds will block the sky and the sun. At this time, the earth's surface temperature can reach 2400 degrees Celsius!
+After the sun gradually enters the red giant stage, the strong solar wind will gradually strip away the earth's thick atmosphere...  Then the sun will undergo a helium flash, then enter the asymptotic giant stage, and finally become a white dwarf star._ 
+
+_Our planet may be able to survive the repeated expansion and contraction of progressive giant stars..._
+
+
+
 ![Pluto](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/ca04d50e-23c6-480b-a114-bc0e55ba2c8b)
 ### ***_In this MOD:_***
 _In AfterSolarSystem, the timeline is set before the sun's helium flash. At this time, the earth had no signs of life. It had extremely high temperatures, hot lava flowed on the surface of the planet, and a thick atmosphere blocked the sky and the sun. Even Titan, known as the most Earth-like body in the solar system, has seen temperatures rise to the point where life is uninhabitable.
 Before this, the sun captured a rogue planet "Muna" which is a planet slightly larger than us. Originally, Muna orbited a red dwarf star much smaller than the sun. But when the star system Billion moved to a position about 800 AU from the solar system, Muna was affected by the gravity of the sun and broke away from its original orbit around the red dwarf star. It began to approach the solar system along the ecliptic and approached the sun, and eventually Muna was captured by the sun. After repeated gravitational ejections from Jupiter and Saturn, its orbit eventually stabilized. After environmental modification, the plants located in Muna produced enough oxygen to make Muna's atmosphere breathable by humans. At this time, the sun has entered the red giant stage. In the red giant stage, Muna's temperature gradually increases, but is still relatively low. The average surface temperature is only about 10 degrees Celsius. Huge ice caps cover both poles of the Earth. If you live on this celestial body, you may need to wear thick clothing to go outdoors, otherwise you are likely to get frostbite or hypothermia; especially at night, its temperature can drop to close to zero degrees Celsius._
 _At this moment, the ice on Pluto, located in the Kuiper Belt, is also gradually melting, making this once cold and distant world seem to have a glimmer of life. But we can't stay in the solar system at this moment. The sun is very dangerous now, and it may have a helium flash at any time..._ 
 
-_***We have to leave as soon as possible, let's take action!***_
 
 ***
 # _****Compatibility and Hardware Requirements****_
