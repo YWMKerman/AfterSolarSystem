@@ -53,8 +53,7 @@ _At this moment, the ice on Pluto, located in the Kuiper Belt, is also gradually
 
 ***
 # _****Compatibility and Hardware Requirements****_
-![1](https://user-images.githubusercontent.com/78585019/206646561-415598c7-c52e-4203-952d-4f40209d96a0.png)
-
+![Earth](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/3df0bd01-901f-4899-9cf9-54c3121beaff)
 ### _***AfterSolarSystem is compatible with (or provides support for) the following mods:***_
 - [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
