@@ -15,9 +15,7 @@ _As our sun expands, the orbits of other planets will gradually shift outward du
 The rate of this runaway reaction can climb to about 100 billion times normal energy production in a matter of seconds, but degenerate matter is not eliminated until the temperature rises to the point where thermal pressure once again dominates. The core can then expand and cool, and helium burning will stabilize and continue. ” So our sun will have a helium flash.   After the helium flash, the Sun shrank to about 10 times its current size, 50 times its luminosity, and was a little cooler than it is now. It will then reach the Red clump, or horizontal branch, but stars with solar metallicity will not evolve toward blue along the horizontal branch. On the contrary, as it continues to react with helium in the core. When the helium is exhausted, the Sun will repeat the expansion it followed when the hydrogen in the core is exhausted. This time, however, it all happened faster, the sun became bigger and brighter, and if Venus had survived the sun's red giant phase before, it might be doomed now. This is the Asymptotic Giant Branch Star stage (abbreviated as AGB stage). After about 20 million years on the early asymptotic giant branch, the Sun became increasingly unstable, rapidly losing mass and increasing in size and luminosity every 100,000 years or so for hundreds of years due to thermal pulses. The thermal pulses grew larger each time, with subsequent pulses pushing the luminosity to 5,000 times its current level and a radius of more than 1 AU! The Sun would then become the brightest star in the night sky. For our Sun, four thermal pulses are predicted before it completely loses its outer shell and begins to form a planetary nebula. By the end of this phase, which lasts about 500,000 years, the Sun will eventually have only about half its current mass. The later evolution of the asymptotic megabranch is even faster. As the temperature increases, the luminosity remains roughly constant, and when the exposed core reaches 30,000 K, half of the Sun's mass is ionized into a planetary nebula, as if it were in a kind of blue cycle. Eventually our sun becomes a white dwarf star with a temperature exceeding 100,000 K. The white dwarf will slowly cool over trillions of years, and eventually the sun will become a black dwarf._
 
 _At this point, the sun's life will completely come to an end._
-
-_***We have to leave as soon as possible, let's take action!***_
-
+***
 ### ***_Understand the evolution of The Earth:_***
 _***The evolution of the earth is based on Wikipedia information and Youtube author MrPlasma "[Timeline of the Earth: From its Formation to Destruction](https://youtu.be/Zn6fcA2JkPg?si=f7ygQW7oZY9VgrIB)"***_.
 
@@ -41,19 +39,40 @@ After the sun gradually enters the red giant stage, the strong solar wind will g
 
 _Our planet may be able to survive the repeated expansion and contraction of progressive giant stars..._
 
+_***We have to leave as soon as possible, let's take action!***_
 
 ![Mars](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/641e544d-2084-4892-a0bc-f69b614fd742)
 
-
+***
 ### ***_In this MOD:_***
 _In AfterSolarSystem, the timeline is set before the sun's helium flash. At this time, the earth had no signs of life. It had extremely high temperatures, hot lava flowed on the surface of the planet, and a thick atmosphere blocked the sky and the sun. Even Titan, known as the most Earth-like body in the solar system, has seen temperatures rise to the point where life is uninhabitable.
 Before this, the sun captured a rogue planet "Muna" which is a planet slightly larger than us Earth. Originally, Muna orbited a red dwarf star much smaller than the sun. But when the star system moved to a position about 800 AU from the solar system, Muna was affected by the gravity of the sun and broke away from its original orbit around the red dwarf star. It began to approach the solar system along the ecliptic and approached the sun, and eventually Muna was captured by the sun. After repeated gravitational ejections from Jupiter and Saturn, its orbit eventually stabilized. After environmental modification, the plants located in Muna produced enough oxygen to make Muna's atmosphere breathable by humans. At this time, the sun has entered the red giant stage. In the red giant stage, Muna's temperature gradually increases, but is still relatively low. The average surface temperature is only about 10 degrees Celsius. Huge ice caps cover both poles of the Earth. If you live on this celestial body, you may need to wear thick clothing to go outdoors, otherwise you are likely to get frostbite or hypothermia; especially at night, its temperature can drop to close to zero degrees Celsius._
 _At this moment, the ice on Pluto, located in the Kuiper Belt, is also gradually melting, making this once cold and distant world seem to have a glimmer of life. But we can't stay in the solar system at this moment. The sun is very dangerous now, and it may have a helium flash at any time..._ 
 
-#### ***_Choice of reference system:_*** 
+### Changes in color of gaseous planets:
+Color changes of gas giants are based on this reference [Sudarsky's gas giant classification](https://en.wikipedia.org/wiki/Sudarsky%27s_gas_giant_classification)
+The following is an excerpt from the above wiki about the colors of gaseous planets. If you don’t have access to Wikipedia, then you can directly read the article below.
+#### Category 1: Ammonia cloud
+The appearance of this type of gas giant is mainly ammonia clouds. These planets are located in the outer regions of the planetary system. They exist at temperatures below about 150 K (-120 °C; -190 °F). The Bond albedo of a Class I planet orbiting a star such as the Sun is expected to be 0.57.
+#### Category 2: Water Cloud
+Category II gas giants are too hot to form ammonia clouds; instead, their clouds are composed of water vapor. These features are expected to apply to planets with temperatures below about 250 K (−23 °C; −10 °F). [2] Water clouds are more reflective than ammonia clouds, and the predicted Bond albedo for Class II planets around Sun-like stars is 0.81. Although the clouds on such a planet would be similar to those on Earth, the atmosphere would still be mostly composed of hydrogen and hydrogen-rich molecules such as methane.
+#### Category 3: No clouds
+Gas giant planets with equilibrium temperatures between 350 K (170 °F, 80 °C) and 800 K (980 °F, 530 °C) do not form global clouds because they lack the appropriate chemicals in their atmospheres to form cloud. (They won't form sulfuric acid clouds like Venus because of excess hydrogen.) Due to Rayleigh scattering and the absorption of methane in the atmosphere, the planets will appear as featureless sky-blue spheres that look like Jupiter-mass versions of Uranus. and Neptune. Due to the lack of reflective clouds, the Bond albedo is low, about 0.12 for a Class III planet orbiting a Sun-like star.
+![GasPlanetColor](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/54ed4fff-7ef5-4dea-84d6-879b40553dcb)
+  _At this time, the temperatures of Jupiter and Saturn have already exceeded 150 degrees Celsius. At this temperature, the original ammonia clouds (the red and white ones we see on Jupiter, and the nearly yellow ones on Saturn are clouds composed of ammonia) have long ceased to exist. . So this also causes Jupiter and Saturn to turn blue, while the temperature of Uranus and Neptune rises to -30 degrees. Therefore, water vapor clouds will appear in the atmosphere, and these clouds will cause the planets to become almost white. So this is why all 4 gas planets changed color._
+***
+![Why？](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/ef3ba381-c404-45de-9afa-6ae09b3edcb6)
+### Why is Muna in such an unreasonable position?
+This is a forced choice. The habitable zone at this moment is between Uranus and Neptune. If Muna is located there, it will lead to a very poor game experience. It will take a long time for players to accelerate time and wait for a window period, at least 80 years to start. Not to mention the time it would take for the Hohmann transfer. Such a long waiting time will have a huge impact on the game experience. In addition, in KSP, the farther the home position is from the origin (sun), the lower the accuracy will be, and the more bugs will be. The most obvious feature is that when After you add the exoplanet Mod, if you return to the KSC interface after visiting the exoplanets in the tracking station, you will find that the KSC is "broken". In addition, the homeworld cannot orbit planets. If you set Muna to orbit Jupiter, the Mod will fail to load. Therefore, Muna's position was a matter of desperation. This hypothesis captures the celestial body out of necessity, because the temperature of Mars is uninhabitable at this moment, and the satellites that already exist in the solar system are too small, and the gravity is too low, which affects the game experience.
 
-Although AfterSolarSystem is not the current solar system, it is still considered a "solar system". Therefore, the orbits of all celestial bodies are calculated based on calculations. AfterSolarSystem is different from RealSolarSystem Mod in the choice of reference system. The latter uses the Earth's equatorial reference system. , which is more troublesome for interplanetary exploration and orbit planning. AfterSolarSystem uses the Earth's ecliptic reference system. This will make the planets almost appear to be on a "horizontal" plane, unlike RealSolarSystem's planetary disk, which is tilted at 23 degrees as a whole.  
+***
+### About AfterSolarSystem:
 
+### AfterSolarSystem uses the following files from other mods:
+
+- All RealSolarSystem adaptation files (DSN_Ranges, KerbalWind, PhysicsModifier, FARAtmospheres)
+- RealSolarSystem dll, (used after modifying some dll source code)
+- RVE2.0 Earth’s clouds, and Detail Clouds.
 
 ***
 # _****Compatibility and Hardware Requirements****_
@@ -64,7 +83,6 @@ Although AfterSolarSystem is not the current solar system, it is still considere
 - [Distant Object Enhancement](https://spacedock.info/mod/2274/Distant%20Object%20Enhancement%20Continued)
 - [Sigma Replacements: Skybox](https://github.com/Sigma88/Sigma-Replacements/releases)
 - [TUFX](https://github.com/shadowmage45/TUFX/releases)
-- [KS3P](https://github.com/c1usta/KS3P/releases)
 
 ### _***AfterSolarSystem is not compatible with the following mods:***_
 - External visual mods (RVE, RSSVE, EVO, etc.)
@@ -86,6 +104,7 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 ### _****Requirements:****_
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
+- [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
 - [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)
 
