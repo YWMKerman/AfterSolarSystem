@@ -129,7 +129,7 @@ If you like my Mods, please sponsor me some...
 Thank you
 
 ![image](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/a55b0373-1a27-43d3-a572-11702a670dc8)
-
+![image](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/8074e31a-f6ed-49d9-bde4-f4fedccbb3d6)
 
 
 
