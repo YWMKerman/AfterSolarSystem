@@ -118,12 +118,18 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 - *Check if you have the mod "KSPCommunityFixes" installed. If yes, turn the option "Maneuver Tool" off in your gameplay settings.*
 
 ***
-# ***Gallery***
+Author's words:
 
-![Pluto](https://user-images.githubusercontent.com/78585019/212247313-7194eb3c-f036-467d-835a-5d87aa136627.png)
-![Muna](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/38764413-ba56-41b1-beb3-eda346cf9ead)
-![Muna_KSC](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/13bf205a-3e83-4899-955d-3b4ae9560802)
-![Earth_Car](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/428be99d-e263-4eaf-a25b-c03204236362)
+Hello, I am very glad that you can download my Mod. The author of this Mod is a middle school student from Guangzhou, China (yes, it is indeed a middle school student). The original intention of making this mod was to commemorate my existence and leave as many traces as possible in this world. Because she lives in an unhappy family, which makes a lot of noise every day. In such a family, all my family members and relatives will not feel the importance of mental health. They never cared about my mental health, they just thought there was nothing wrong with me because I was alive. I feel like I shouldn’t have depression at my age. Unfortunately, I already have severe depression and severe anxiety. I have also communicated with my mother and grandmother about this, but unfortunately they still don't care and don't take me to see a doctor. I even think that taking antidepressant drugs will affect my health.
+
+In addition, my family also has a serious preference for boys over girls. They only think that if their children are male, they will have face, but if their children are female, they will lose face. Unfortunately, I didn’t graduate from junior high school, so they didn’t allow me to continue going to school. They asked me to leave that middle school and go to a vocational and technical school to study mechatronics technology, and asked me to do my father’s job. But as a woman, I , I don’t like mechatronics at all, what I like is art. But my parents don't agree with me studying art. They want me to earn my own money and learn what I like, so they can only choose what they want for me. During the five years I was in school, I encountered school violence and color discrimination from my classmates every day. Family members and teachers ignored the matter. Never took it seriously. It lasts from 2019 to 2023. Over the past five years, my mental state has gotten worse and worse, until now, I have no motivation to do almost anything.
+
+I am becoming a waste, trying to save myself but unable to do anything. I have no friends in real life, let alone anyone to talk to... I have almost no money now. I can only rely on extra part-time jobs to earn some pocket money.
+If you like my Mods, please sponsor me some... 
+Thank you
+
+![image](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/a55b0373-1a27-43d3-a572-11702a670dc8)
+
 
 
 
