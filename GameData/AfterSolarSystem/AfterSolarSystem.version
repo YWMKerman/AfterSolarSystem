@@ -1,0 +1,27 @@
+{
+    "NAME": "AfterSolarSystem",
+    "URL": "https://github.com/YWMKerman/AfterSolarSystem/tags",
+    "DOWNLOAD": "https://github.com/YWMKerman/AfterSolarSystem/releases/",
+    "HOMEPAGE": "https://github.com/YWMKerman/AfterSolarSystem",
+    "VERSION": {
+        "MAJOR": 2,
+        "MINOR": 0,
+        "PATCH": 0,
+        "BUILD": 0
+    },
+    "KSP_VERSION": {
+        "MAJOR": "1",
+        "MINOR": "12",
+        "PATCH": "5"
+    },
+    "KSP_VERSION_MIN": {
+        "MAJOR": "1",
+        "MINOR": "12",
+        "PATCH": "0"
+    },
+    "KSP_VERSION_MAX": {
+        "MAJOR": "1",
+        "MINOR": "12",
+        "PATCH": "9"
+    }
+}
