@@ -83,6 +83,7 @@ This is a forced choice. The habitable zone at this moment is between Uranus and
 - [Distant Object Enhancement](https://spacedock.info/mod/2274/Distant%20Object%20Enhancement%20Continued)
 - [Sigma Replacements: Skybox](https://github.com/Sigma88/Sigma-Replacements/releases)
 - [TUFX](https://github.com/shadowmage45/TUFX/releases)
+- [Parallax 1.3.1](https://github.com/Gameslinx/Tessellation/releases)
 
 ### _***AfterSolarSystem is not compatible with the following mods:***_
 - External visual mods (RVE, RSSVE, EVO, etc.)
