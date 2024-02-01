@@ -91,8 +91,8 @@ This is a forced choice. The habitable zone at this moment is between Uranus and
 - Principia
 
 ### _***Recommended mods to install:***_
-- [KSPIE](https://spacedock.info/mod/172/KSP%20Interstellar%20Extended)
 - [Better Time Warp](https://spacedock.info/mod/1162/BetterTimeWarpContinued)
+
 *** 
 _"After Solar System Mod" theoretically does not have very high performance requirements (in the case of only using Scatterer as a visual module), I can run relatively smoothly on a 2015 notebook of my grandmother, and the configuration of this notebook is I3-5005U 10GB DDR3 memory and Intel's core graphics card, 1TB mechanical hard disk. This may be the minimum requirement to ensure the visual situation as much as possible_
 ***Therefore my recommendation is:***
