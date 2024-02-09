@@ -1,11 +1,24 @@
 
 
-_____________________________________________________________________________________________________________________________
-  2:  BY RVE 2.0:
+by: Kcalbeloh System Mod:
 
-        DetailCloudParticle
-        Detail1(DetailAltostratus)
-_____________________________________________________________________________________________________________________________
+ "sunFlare.png" 
+
+
+-----------------------------------------------------------------------------------------------------
+2:by RVE2.0:
+
+ "cityday.dds"
+ "Detail1.dds"
+ "DetailCirrus.dds"
+ "DetailCloudParticle.dds"
+ "DetailCloudParticle_NRM.dds"
+ "DetailUVNoise.dds"
+ "LightsSmallold.dds"
+ "par_snow.dds"
+ "Muna Clouds"
+
+-----------------------------------------------------------------------------------------------------
   3: BY RealSolarSystem:
 
         
@@ -13,7 +26,7 @@ ________________________________________________________________________________
         "FARAtmospheres"
         "KerbalWind"                        (I need to adapt to RO, but I can't do it Alone)      
         "PhysicsModifier" 
-        "ROCDefinitions"
+        "SCANsat"
         "dll"
-               
+-----------------------------------------------------------------------------------------------------               
 
