@@ -41,7 +41,7 @@ After the sun gradually enters the red giant stage, the strong solar wind will g
 
 _Our planet may be able to survive the repeated expansion and contraction of progressive giant stars..._
 
-![Mars](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/641e544d-2084-4892-a0bc-f69b614fd742)
+![Moon](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/776fd3f0-885f-44bc-b9f5-2f11d0803285)
 
 ***
 ### ***_In this MOD:_***
