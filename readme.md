@@ -3,7 +3,7 @@
 _“每当我找不到存在的意义，每当我迷失在黑夜里，夜空中最亮的星，请照耀我前行”_
 
 _<p align="right">- 《夜空中最亮的星》 </p>_
-![screenshot17](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/171fbc63-b484-40ed-92de-3d71805cc684)
+![ASS](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/01688a41-fad4-4d8d-95cf-e802813623f0)
 
 
 ***
