@@ -1,4 +1,4 @@
-# _****The After Solar System Mod****_
+# _****The After Solar System****_
 
 _“每当我找不到存在的意义，每当我迷失在黑夜里，夜空中最亮的星，请照耀我前行”_
 
