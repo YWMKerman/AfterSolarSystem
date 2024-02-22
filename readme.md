@@ -41,7 +41,6 @@ After the sun gradually enters the red giant stage, the strong solar wind will g
 
 _Our planet may be able to survive the repeated expansion and contraction of progressive giant stars..._
 
-![Moon](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/776fd3f0-885f-44bc-b9f5-2f11d0803285)
 
 ***
 ### ***_In this MOD:_***
@@ -77,7 +76,7 @@ This is a forced choice. The habitable zone at this moment is between Uranus and
 
 ***
 # _****Compatibility and Hardware Requirements****_
-![Earth](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/3df0bd01-901f-4899-9cf9-54c3121beaff)
+![水星](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/2263818d-22e3-4048-9144-56c91008de61)
 ### _***AfterSolarSystem is compatible with (or provides support for) the following mods:***_
 - [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
