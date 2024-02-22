@@ -76,7 +76,7 @@ This is a forced choice. The habitable zone at this moment is between Uranus and
 
 ***
 # _****Compatibility and Hardware Requirements****_
-![水星](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/2263818d-22e3-4048-9144-56c91008de61)
+![水星](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/5c982ee6-fc54-4e01-8cdd-45b298448190)
 ### _***AfterSolarSystem is compatible with (or provides support for) the following mods:***_
 - [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
