@@ -43,6 +43,7 @@ _Our planet may be able to survive the repeated expansion and contraction of pro
 
 
 ***
+  ![Titan](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/1c9260ac-9dc9-473a-b09e-affee8143bc6)
 ### ***_In this MOD:_***
 _In AfterSolarSystem, the timeline is set before the sun's helium flash. At this time, the earth had no signs of life. It had extremely high temperatures, hot lava flowed on the surface of the planet, and a thick atmosphere blocked the sky and the sun. Even Titan, known as the most Earth-like body in the solar system, has seen temperatures rise to the point where life is uninhabitable.
 Before this, the sun captured a rogue planet "Muna" which is a planet slightly larger than us Earth. Originally, Muna orbited a red dwarf star much smaller than the sun. But when the star system moved to a position about 800 AU from the solar system, Muna was affected by the gravity of the sun and broke away from its original orbit around the red dwarf star. It began to approach the solar system along the ecliptic and approached the sun, and eventually Muna was captured by the sun. After repeated gravitational ejections from Jupiter and Saturn, its orbit eventually stabilized. After environmental modification, the plants located in Muna produced enough oxygen to make Muna's atmosphere breathable by humans. At this time, the sun has entered the red giant stage. In the red giant stage, Muna's temperature gradually increases, but is still relatively low. The average surface temperature is only about 10 degrees Celsius. Huge ice caps cover both poles of the Earth. If you live on this celestial body, you may need to wear thick clothing to go outdoors, otherwise you are likely to get frostbite or hypothermia; especially at night, its temperature can drop to close to zero degrees Celsius._
@@ -60,19 +61,6 @@ Gas giant planets with equilibrium temperatures between 350 K (170 °F, 80 °C) 
 
 
   _At this time, the temperatures of Jupiter and Saturn have already exceeded 150 degrees Celsius. At this temperature, the original ammonia clouds (the red and white ones we see on Jupiter, and the nearly yellow ones on Saturn are clouds composed of ammonia) have long ceased to exist. . So this also causes Jupiter and Saturn to turn blue, while the temperature of Uranus and Neptune rises to -30 degrees. Therefore, water vapor clouds will appear in the atmosphere, and these clouds will cause the planets to become almost white. So this is why all 4 gas planets changed color._
-  ![Titan](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/1c9260ac-9dc9-473a-b09e-affee8143bc6)
-***
-### Why is Muna in such an unreasonable position?
-This is a forced choice. The habitable zone at this moment is between Uranus and Neptune. If Muna is located there, it will lead to a very poor game experience. It will take a long time for players to accelerate time and wait for a window period, at least 80 years to start. Not to mention the time it would take for the Hohmann transfer. Such a long waiting time will have a huge impact on the game experience. In addition, in KSP, the farther the home position is from the origin (sun), the lower the accuracy will be, and the more bugs will be. The most obvious feature is that when After you add the exoplanet Mod, if you return to the KSC interface after visiting the exoplanets in the tracking station, you will find that the KSC is "broken". In addition, the homeworld cannot orbit planets. If you set Muna to orbit Jupiter, the Mod will fail to load. Therefore, Muna's position was a matter of desperation. This hypothesis captures the celestial body out of necessity, because the temperature of Mars is uninhabitable at this moment, and the satellites that already exist in the solar system are too small, and the gravity is too low, which affects the game experience.
-
-***
-### About AfterSolarSystem:
-
-### AfterSolarSystem uses the following files from other mods:
-
-- All RealSolarSystem adaptation files (DSN_Ranges, KerbalWind, PhysicsModifier, FARAtmospheres)
-- RealSolarSystem dll, (used after modifying some dll source code)
-- RVE2.0 Earth’s clouds, and Detail Clouds.
 
 ***
 # _****Compatibility and Hardware Requirements****_
