@@ -89,7 +89,7 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 - It is best to use a graphics card with 2G or higher video memory
 
 #  _****Mod Installation****_
-![Pluto](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/ca04d50e-23c6-480b-a114-bc0e55ba2c8b)
+![创神星](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/190c6549-8537-4602-876e-895cf7382e4f)
 ### _****Requirements:****_
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
