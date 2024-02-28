@@ -43,7 +43,7 @@ _Our planet may be able to survive the repeated expansion and contraction of pro
 
 
 ***
-  ![Titan](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/1c9260ac-9dc9-473a-b09e-affee8143bc6)
+
 ### ***_In this MOD:_***
 _In AfterSolarSystem, the timeline is set before the sun's helium flash. At this time, the earth had no signs of life. It had extremely high temperatures, hot lava flowed on the surface of the planet, and a thick atmosphere blocked the sky and the sun. Even Titan, known as the most Earth-like body in the solar system, has seen temperatures rise to the point where life is uninhabitable.
 Before this, the sun captured a rogue planet "Muna" which is a planet slightly larger than us Earth. Originally, Muna orbited a red dwarf star much smaller than the sun. But when the star system moved to a position about 800 AU from the solar system, Muna was affected by the gravity of the sun and broke away from its original orbit around the red dwarf star. It began to approach the solar system along the ecliptic and approached the sun, and eventually Muna was captured by the sun. After repeated gravitational ejections from Jupiter and Saturn, its orbit eventually stabilized. After environmental modification, the plants located in Muna produced enough oxygen to make Muna's atmosphere breathable by humans. At this time, the sun has entered the red giant stage. In the red giant stage, Muna's temperature gradually increases, but is still relatively low. The average surface temperature is only about 10 degrees Celsius. Huge ice caps cover both poles of the Earth. If you live on this celestial body, you may need to wear thick clothing to go outdoors, otherwise you are likely to get frostbite or hypothermia; especially at night, its temperature can drop to close to zero degrees Celsius._
@@ -64,7 +64,7 @@ Gas giant planets with equilibrium temperatures between 350 K (170 °F, 80 °C) 
 
 ***
 # _****Compatibility and Hardware Requirements****_
-![水星](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/5c982ee6-fc54-4e01-8cdd-45b298448190)
+![Titan](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/32e22d94-3225-4f0d-9c5e-c30c864cc153)
 ### _***AfterSolarSystem is compatible with (or provides support for) the following mods:***_
 - [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
