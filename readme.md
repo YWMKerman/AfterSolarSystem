@@ -53,8 +53,6 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 ### _****Requirements:****_
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
-- [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
-- [Scatterer](https://spacedock.info/mod/141/Scatterer)
 - [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)
 
 **↑ Download the files above and unzip them, then copy them into [KSP_Root]/GameData**
