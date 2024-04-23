@@ -15,7 +15,6 @@ _<p align="right">- 《夜空中最亮的星》 </p>_
 At the same time, the ice and snow on the surface of the three Galilean satellites Europa, Ganymede, and Callisto have melted, forming liquid water oceans and thin atmospheres, but they will not last long. And Saturn’s satellite Titan, which is farther away, has gradually become habitable due to human environmental modification, and the seeds of life are about to bloom on Titan... 
 
 In the more distant solar system, Triton is constantly approaching Neptune due to the tidal force of Neptune. Under the influence of Neptune, Larissa is expelled by Triton to the Roche limit of Neptune
-
 . It is gradually being torn apart by Neptune. Under the shroud of death, Larissa glowed dark red. There is a dwarf planet at the edge of the solar system - Eris. Because it is too cold, the temperature of Eris is infinitely close to absolute zero. But at this moment, it begins to heat up, and the nitrogen that exists in solid form begins to melt, forming a planet made of liquid nitrogen ocean...
 
 But in the next tens or even tens of millions of years, the sun will begin to expand rapidly, and the habitable zone will be far beyond the orbit of Saturn... Therefore, we must leave the solar system and find a new home. This is the optimal solution. . "The solar system is the cradle of mankind, but you can't stay in the cradle forever."
