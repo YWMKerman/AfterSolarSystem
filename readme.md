@@ -42,11 +42,7 @@ _***Come on, let's take action.***_
 - [Better Time Warp](https://spacedock.info/mod/1162/BetterTimeWarpContinued)
 
 *** 
-_"After Solar System Mod" theoretically does not have very high performance requirements (in the case of only using Scatterer as a visual module), I can run relatively smoothly on a 2015 notebook of my grandmother, and the configuration of this notebook is I3-5005U 10GB DDR3 memory and Intel's core graphics card, 1TB mechanical hard disk. This may be the minimum requirement to ensure the visual situation as much as possible_
-***Therefore my recommendation is:***
-- Your processor needs to have at least 4 cores and 8 threads.
-- RAM at least equal to or greater than 10GB
-- It is best to use a graphics card with 2G or higher video memory
+"After Solar System" does not have high requirements for your device hardware. If your device can run RealSolarSystem and Realism Overhaul before, there is no doubt that your device can run it perfectly.
 
 #  _****Mod Installation****_
 ![创神星](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/190c6549-8537-4602-876e-895cf7382e4f)
