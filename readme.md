@@ -61,10 +61,8 @@ _"After Solar System Mod" theoretically does not have very high performance requ
 
 
 #### _****In-game settings：****_
-- *Check if you have "Show Earth Time (24 hours a day, 365 days a year)" enabled in your settings If not, turn it on*
-![In-game settings](https://user-images.githubusercontent.com/78585019/194764856-c6c18118-4177-4670-93e8-bbc839b6e617.png)
 
-- *Check if you have the mod "KSPCommunityFixes" installed. If yes, turn the option "Maneuver Tool" off in your gameplay settings.*
+- *Check if you have "[KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)" installed. If yes, turn the option "Maneuver Tool" off in your gameplay settings. If you don't follow this step, you "may" experience a extremely laggy gameplay once you are inflight.*
 
 ***
 # _Roughly relevant knowledge:_
