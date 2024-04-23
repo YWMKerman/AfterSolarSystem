@@ -4,7 +4,8 @@ _“每当我找不到存在的意义，每当我迷失在黑夜里，夜空中�
 
 _<p align="right">- 《夜空中最亮的星》 </p>_
 
-![ASS](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/216756d7-a39a-415d-ae9c-e0d74de7d7e6)
+![ASS](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/4296f77e-ea1f-4f89-b50a-a8101aedf2b7)
+
 
 ***
 # _****Introduction****_
