@@ -23,15 +23,11 @@ But in the next tens or even tens of millions of years, the sun will begin to ex
 _***Come on, let's take action.***_
 
 
-![Titan](https://github.com/YWMKerman/AfterSolarSystem/assets/108212981/e64b8ba2-b129-4c94-954b-47769c098991)
-## _Is there something eye-catching?_
 
-The reason why AfterSolarSystem is different from RealSolarSystem is that RealSolarSystem will be completely locked in the reality of the moment, which allows you to imagine and innovate on these celestial bodies. The existence of AfterSolarSystem will break people's solid thinking patterns. In this case, AfterSolarSystem will allow people to drive spacecraft to land on the cores of 3 gaseous planets (Saturn, Neptune, Uranus). At the same time, it also allows people to go deep into the ocean floor of Europa, which is tens of kilometers deep, to explore the unknown underwater world of Atlantis, or to go to Enceladus and go deep into the ravine that seems to go straight to the center of the earth...
 
-You can achieve all of this, and it is not completely bound by reality.
 ***
 # _****Compatibility and Hardware Requirements****_
-![Titan](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/32e22d94-3225-4f0d-9c5e-c30c864cc153)
+![Titan](https://github.com/YWMKerman/AfterSolarSystem/assets/108212981/e64b8ba2-b129-4c94-954b-47769c098991)
 ### _***AfterSolarSystem is compatible with (or provides support for) the following mods:***_
 - [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
