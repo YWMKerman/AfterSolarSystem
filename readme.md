@@ -10,7 +10,7 @@ _<p align="right">- 《夜空中最亮的星》 </p>_
 ***
 # _****Introduction****_
 
-  After Solar System (ASS) is the sequel to Real Solar System. It roughly simulates what our solar system might look like in a billion years.
+  After Solar System (ASS) is the sequel to Real Solar System. It roughly simulates what our solar system might look like in a billions years.
   
   In this Mod, the phase of the sun is set when the sun has just turned into a red giant. At this time, the sun has just entered the red giant phase, with a spectrum of K7III. At this stage, the earth is already uninhabitable. The high temperature and thick atmosphere make the earth Become a purgatory. At this time, there are still a small number of humans lingering on Mars, but the temperature of Mars has risen to an average of 40 degrees Celsius, and there is not much time left for them...
 At the same time, under the influence of the sun, the ice and snow on the surface of the three Galilean satellites Europa, Ganymede, and Callisto have melted, forming liquid water oceans and thin atmospheres, but they will not last long. And Saturn’s satellite Titan, which is farther away, has gradually become habitable due to human environmental modification, and the seeds of life are about to bloom on Titan... 
