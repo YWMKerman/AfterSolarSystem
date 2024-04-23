@@ -28,7 +28,6 @@ _***Come on, let's take action.***_
 - [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
 - [Distant Object Enhancement](https://spacedock.info/mod/2274/Distant%20Object%20Enhancement%20Continued)
-- [Sigma Replacements: Skybox](https://github.com/Sigma88/Sigma-Replacements/releases)
 - [TUFX](https://github.com/shadowmage45/TUFX/releases)
 - [Parallax 1.3.1](https://github.com/Gameslinx/Tessellation/releases)
 - [Stock Volumetric Clouds](https://www.patreon.com/posts/true-volumetric-77198227)
