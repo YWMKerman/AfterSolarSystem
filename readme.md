@@ -13,13 +13,7 @@ _<p align="right">- 《夜空中最亮的星》 </p>_
   AfterSolarSystem (ASS for short) is the last glorious moment of the sun as a star. It roughly predicts what may happen in billions of years based on the current situation of our solar system. Maybe it can become a fan work of RealSolarSystem and BeforeSolarSystem.
   
   In the timeline of AfterSolarSystem, the sun has just left the Subgiant stage and entered the red giant stage. At this time, the sun's habitable zone is moving outside the asteroid belt. Today, the temperatures of Europa, Ganymede, and Callisto have risen enough to melt ice into liquid water, allowing them to briefly have thin atmospheres and liquid water oceans. However, almost no one chooses Stay on these three satellites.
-They continued toward the outer solar system and reached Titan. Before the solar helium flash, it would be the last refuge for humans in the solar system. The seeds of life will be sown on this satellite. However, at this moment, there is still the last scientific expedition team lingering on Mars, but it will not be long before they have to leave here.Because the ocean of this world is boiling and evaporating at this moment. Before long, the world's flora and fauna will die.
-
-Before long, the sun will expand so dramatically that its habitable zone will extend far beyond the orbit of Neptune. At that time, most of the celestial bodies in the solar system will be unable to escape their doom, and the only optimal solution is for us to leave the solar system as soon as possible.
-_***Come on, let's take action.***_
-
-
-
+They continued toward the outer solar system and reached Titan. Before the solar helium flash, it would be the last refuge for humans in the solar system. The seeds of life will be sown on this satellite. However, at this moment, there is still the last scientific expedition team lingering on Mars, but it will not be long before they have to leave here.Because the ocean of this world is boiling and evaporating at this moment. Before long, this world's flora and fauna will die.  In addition to this, Those celestial bodies at the edge of the distant solar system are also quietly changing under the subtle influence of the sun. Some gases that once existed in solid form are melting, and oceans composed of liquid gas have appeared on the dark and distant world. We know very little about those mysterious dark worlds, which are waiting for us to explore and unearth that unknown dusty history...
 
 ***
 # _****Compatibility and Hardware Requirements****_
