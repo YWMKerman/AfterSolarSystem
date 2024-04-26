@@ -23,7 +23,8 @@ _***Come on, let's take action.***_
 
 ***
 # _****Compatibility and Hardware Requirements****_
-![Titan](https://github.com/YWMKerman/AfterSolarSystem/assets/108212981/e64b8ba2-b129-4c94-954b-47769c098991)
+![Marcury](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/e86128d4-0659-4466-a221-a8807313759f)
+
 ### _***AfterSolarSystem is compatible with (or provides support for) the following mods:***_
 - [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
