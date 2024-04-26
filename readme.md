@@ -15,8 +15,7 @@ _<p align="right">- 《夜空中最亮的星》 </p>_
   In the timeline of AfterSolarSystem, the sun has just left the Subgiant stage and entered the red giant stage. At this time, the sun's habitable zone is moving outside the asteroid belt. Today, the temperatures of Europa, Ganymede, and Callisto have risen enough to melt ice into liquid water, allowing them to briefly have thin atmospheres and liquid water oceans. However, almost no one chooses Stay on these three satellites.
 They continued toward the outer solar system and reached Titan. Before the solar helium flash, it would be the last refuge for humans in the solar system. The seeds of life will be sown on this satellite. However, at this moment, there is still the last scientific expedition team lingering on Mars, but it will not be long before they have to leave here.
 
-But it won't take long, the sun will begin to expand rapidly, and the habitable zone will be far beyond the orbit of Saturn. Therefore we must leave the solar system and find a new home, This is the optimal solution.  "The solar system is the cradle of mankind, but you can't stay in the cradle forever."
-
+Before long, the sun will expand so dramatically that its habitable zone will extend far beyond the orbit of Neptune. At that time, most of the celestial bodies in the solar system will be unable to escape their doom, and the only optimal solution is for us to leave the solar system as soon as possible.
 _***Come on, let's take action.***_
 
 
