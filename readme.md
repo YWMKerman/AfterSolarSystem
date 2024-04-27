@@ -28,6 +28,7 @@ Compared with RealSolarSystem, AfterSolarSystem has a large time span, which mea
 - [TUFX](https://github.com/shadowmage45/TUFX/releases)
 - [Parallax 1.3.1](https://github.com/Gameslinx/Tessellation/releases)
 - [Stock Volumetric Clouds](https://www.patreon.com/posts/true-volumetric-77198227)
+- [KerbalKonstructs](https://github.com/KSP-RO/Kerbal-Konstructs/releases)
 
 
 ### _***AfterSolarSystem is not compatible with the following mods:***_
