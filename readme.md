@@ -36,9 +36,6 @@ Compared with RealSolarSystem, AfterSolarSystem has a large time span, which mea
 - External planet mods (RealSolarSystem, AfterKerbin, BeyondHome, etc.)
 - Principia
 
-### _***Recommended mods to install:***_
-- [Better Time Warp](https://spacedock.info/mod/1162/BetterTimeWarpContinued)
-
 ### _***Performance requirements:***_
   *Does AfterSolarSystem Mod require the same or higher computer performance than RealSolarSystem?* 
   
