@@ -39,12 +39,19 @@ Compared with RealSolarSystem, AfterSolarSystem has a large time span, which mea
 ### _***Recommended mods to install:***_
 - [Better Time Warp](https://spacedock.info/mod/1162/BetterTimeWarpContinued)
 
-*** 
-"After Solar System" does not have high requirements for your device hardware. If your device can run RealSolarSystem and Realism Overhaul before, there is no doubt that your device can run it perfectly.
+### _***Performance requirements:***_
+  *Does AfterSolarSystem Mod require the same or higher computer performance than RealSolarSystem?* 
+  
+  Not exactly, when AfterSolarSystem Mod is used with scatterer and StockVolumetricClouds Mod, the RAM usage of the computer is only less than 6GB. It even runs on my grandmother's 2015 Samsung laptop (i5-5005U, DDR3 8G RAM, 500GB HDD, Intel HD Graphics). 
+  So it does not require high performance on your computer.  But considering that it is a Solar System rather than a Kerbol System, **if you need to play with the Realism Overhaul series of Mods, you will need at least 16GB of RAM or higher.**
+ 
+So , I **recommend** that your computer best meet the following requirements:
 
-If your device has not been run before or you do not understand RealSolarSystem and Realism Overhaul. You just need to know that your device RAM has at least 8 - 16GB RAM to make sure you can run this mod
+- Have at least 4 CPU cores.
+- Greater than or equal to 8G RAM
+- GPU with 2GB or more VRAM
 
-
+***
 
 #  _****Mod Installation****_
 ![创神星](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/190c6549-8537-4602-876e-895cf7382e4f)
