@@ -44,6 +44,8 @@ Compared with RealSolarSystem, AfterSolarSystem has a large time span, which mea
 
 If your device has not been run before or you do not understand RealSolarSystem and Realism Overhaul. You just need to know that your device RAM has at least 8 - 16GB RAM to make sure you can run this mod
 
+
+
 #  _****Mod Installation****_
 ![创神星](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/190c6549-8537-4602-876e-895cf7382e4f)
 ### _****Requirements:****_
