@@ -22,7 +22,7 @@ Compared to `RealSolarSystem`, `AfterSolarSystem` adds many assumptions and idea
 ***
 
 # _****Compatibility and Hardware Requirements****_
-![Marcury](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/e86128d4-0659-4466-a221-a8807313759f)
+![Mercury](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/e86128d4-0659-4466-a221-a8807313759f)
 
 ### _***AfterSolarSystem is compatible with (or provides support for) the following mods:***_
 - [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
