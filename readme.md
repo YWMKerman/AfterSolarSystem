@@ -54,7 +54,8 @@ So , I **recommend** that your computer best meet the following requirements:
 ***
 
 #  _****Mod Installation****_
-![创神星](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/190c6549-8537-4602-876e-895cf7382e4f)
+![GasPlanetC](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/f1a591fe-32e1-4b5b-b259-6b9d3a29be23)
+
 ### _****Requirements:****_
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
