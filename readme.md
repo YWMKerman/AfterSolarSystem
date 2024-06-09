@@ -71,7 +71,19 @@ So , I **recommend** that your computer best meet the following requirements:
 
 ***
 
-# Author's words:
+# About the Author
+
+## Contact Details:
+
+- [Twitter（X）](https://x.com/SkySnow_01)
+- [Youtube](https://www.youtube.com/channel/UClSVMjhtlH6gieyetSRkRbg)
+- [Bilibili](https://space.bilibili.com/443343766)  
+- Mail ： YWMKerman@gmail.com
+- QQ : 2829802773
+- WeChat : User_20181127
+
+
+## Author's words:
 
 Hello, I am very glad that you can download my Mod. The author of this Mod is a middle school student from Guangzhou, China (yes, it is indeed a middle school student). The original intention of making this mod was to commemorate my existence and leave as many traces as possible in this world. Because she lives in an unhappy family, which makes a lot of noise every day. In such a family, all my family members and relatives will not feel the importance of mental health. They never cared about my mental health, they just thought there was nothing wrong with me because I was alive. I feel like I shouldn’t have depression at my age. Unfortunately, I already have severe depression and severe anxiety. I have also communicated with my mother and grandmother about this, but unfortunately they still don't care and don't take me to see a doctor. I even think that taking antidepressant drugs will affect my health.
 
