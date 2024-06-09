@@ -81,7 +81,9 @@ So , I **recommend** that your computer best meet the following requirements:
 - Mail ： YWMKerman@gmail.com
 - QQ : 2829802773
 - WeChat : User_20181127
+- Telephone Number : + 86 17304017166
 
+  _(If you are bored, feel free to chat with me between 0:00 -15:00 UTC)_
 
 ## Author's words:
 
