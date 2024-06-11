@@ -47,7 +47,7 @@ Compared to `RealSolarSystem`, `AfterSolarSystem` adds many assumptions and idea
  
 So , I **recommend** that your computer best meet the following requirements:
 
-- Have at least 4 CPU cores.
+- A CPU with at least 2-4 Cores
 - Greater than or equal to 8G RAM
 - GPU with 2GB or more VRAM
 
