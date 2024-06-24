@@ -71,8 +71,9 @@ So , I **recommend** that your computer best meet the following requirements:
 
 ***
 
-# About the Author
+# Contact or learn more
 ![About](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/14263392-67fe-4150-9a0a-6e595d6e4c11)
+
 ## Contact Details:
 
 - [Twitter（X）](https://x.com/SkySnow_01)
