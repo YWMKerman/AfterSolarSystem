@@ -102,6 +102,9 @@ In fact, my father, my grandma, and even my grandfather are selfish people, and 
 
 That's all you know about me. If you think I'm a loser and need to criticize me, I will listen patiently. I'm very lonely now, with no one to accompany me. If you are willing, you are welcome to chat with me. Welcome to become best friends or even lovers with me. If you are willing, you are welcome to provide me with some financial support. I will be very grateful to you.
 
+ # Help or Support
+ If you recognize my work, or you are willing to provide me with some financial support, you are welcome to scan the QR code below and donate through WeChat play or Alipay. Thank you～
+ 
 ![image](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/a55b0373-1a27-43d3-a572-11702a670dc8)
 ![image](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/8074e31a-f6ed-49d9-bde4-f4fedccbb3d6)
 
