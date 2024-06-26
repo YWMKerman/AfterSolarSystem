@@ -56,7 +56,7 @@ So , I **recommend** that your computer best meet the following requirements:
 ***
 
 #  _****Mod Installation****_
-![JupiterII](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/59dcbf42-82bd-4442-8682-401eb41f10d7)
+![Uranus](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/5914165a-b08b-4e29-8289-a66c5dde6fa0)
 
 ### _****Requirements:****_
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
