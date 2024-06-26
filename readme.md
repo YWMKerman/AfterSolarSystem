@@ -1,4 +1,4 @@
-# _****After Solar System****_
+# ***After Solar System***
 
 _“每当我找不到存在的意义，每当我迷失在黑夜里，夜空中最亮的星，请照耀我前行”_
 
@@ -8,7 +8,7 @@ _<p align="right">- 《夜空中最亮的星》 </p>_
 
 
 ***
-# _****Introduction****_
+# ***Introduction***
 
   `AfterSolarSystem` (`ASS` for short) is a KSP plugin that brings you to the last glorious moment of the sun, and also a fan work of `RealSolarSystem` and `BeforeSolarSystem`.
 
@@ -17,18 +17,30 @@ _<p align="right">- 《夜空中最亮的星》 </p>_
   
   At the same time, there is still one last scientific expedition team lingering on Mars, but it will not be long before they had to leave there, as the ocean is boiling and evaporating which will cause creatures to die. Meanwhile, the celestial bodies at the edge of the solar system are also quietly changing under the subtle influence of the sun. Some gases that once existed in solid form are evaporating, and oceans composed of liquid gas has appeared on the dark and distant world. We know very little about those mysterious dark worlds, which are waiting for us to explore and unearth their unknown dusty history.
 
-## ***Advantage***
-Compared to `RealSolarSystem`, `AfterSolarSystem` adds many assumptions and ideas to simulate the ﻿scenario of the solar system billions of years later. Colonizing Mars, terraforming Titan, capturing rogue planets, some hypothetical celestial bodies in the solar system, are all included in the mod. Although these sci-fi ideas are divorced from the rationality of reality, they make the game more interesting. In contrast, `RSS`, which is entirely based on the reality, may let you feel boring and lifeless when playing. In `ASS`, however, almost every celestial body has surface structural features like plants, rocks, ice spikes, floating islands, as well as a variety of liquid lakes, such as liquid nitrogen lakes, metallic hydrogen lakes, supercritical fluid lakes and so on. It even allows you to land on the core of a gas planet. Additionally, some celestial bodies with high temperature or extremely high atmospheric pressure are waiting for you to explore. I promise that they will make your gaming experience more interesting.At the same time, ASS reasonably allocates computer performance resources, which ensures the minimum occupation of system resources, such as RAM and VRAM, without affecting the visual effects.
+# ***Advantages Compared to RealSolorSystem***
 
-_**So how does ASS, a large-scale Planet Pack Mod similar to RSS better performance than RSS+RVE2.0?**_ First, ASS customizes textures of appropriate resolution for each celestial body. The resolution of the texture depends on the characteristics of the planet's surface, the degree of brightness, whether there is global cloud cover, etc. This solution will greatly reduce the load on the computer caused by the texture of large-scale celestial bodies; At the same time, the features on the planetary surface, such as plants, volcanoes, boulders, floating islands, etc.are compressed to the maximum extent without affecting the visual effect, which further reduces the demand for graphics cards,At the same time, most unnecessary collision boxes are turned off to further optimize performance.     Even if you turn on "terrain scatters density up to 100%", a computer equipped with an I7-7700K 16GB RAM and Intel HD Graphics 630 GPU can run it smoothly.  If you have the StockVolumetricClouds Mod or EnvironmentalVisualEnhancements installed, ASS will also try to reduce the GPU load as much as possible by turning off cloud shadows or lowering the cloud sampling rate to avoid slow performance as much as possible, of course, this is to ensure that the visual effect is not much different.   At the same time, in terms of loading, ASS adopts the "OnDemand" loading method, which simply means that it loads every celestial body you can see, and does not load invisible ones. This further reduces the RAM usage. ASS is not like some RSS mods that blindly stack high texture resolution in exchange for the best visual effects. What ASS needs to do is to balance performance and visual effects so that more low-performance computers can run it smoothly.
+- Focused more on sci-fi ideas than reality
 
+Compared to `RealSolarSystem`, `AfterSolarSystem` adds many assumptions and ideas which are based on science fictions to simulate the ﻿scenario of the solar system billions of years later. Including colonizing Mars, terraforming Titan, capturing rogue planets, and some hypothetical celestial bodies. Although these sci-fi ideas are divorced from the rationality of reality, they make the game more interesting. In contrast, `RSS` focuses more on reality.
+
+- Better performace
+
+ASS ensures the minimum occupation of system resources by reasonably allocating resources, without affecting the visual effects too much. It does this by using some optimizations listed below.
+
+1. The texture resolution is customized for each celestial body depending on the specific characteristics of the planet.
+2. The features on the planetary surface are compressed to the maximum extent without affecting the visual effect.
+3. Most unnecessary collision boxes are turned off to further optimize performance.
+4. The cloud shadows will be turned off and the cloud sampling rate will be made lower if you have `StockVolumetricClouds` or `EnvironmentalVisualEnhancements` installed.
+5. ASS avoids loading invisible celestial bodies by adopting the `OnDemand` loading method.
+
+ASS balances performance and visual effects so that low-performance computers can run it smoothly.
 
 ***
 
-# _****Compatibility and Hardware Requirements****_
+# ***Compatibility and Hardware Requirements***
 ![Mercury](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/e86128d4-0659-4466-a221-a8807313759f)
 
-### _***AfterSolarSystem is compatible with (or provides support for) the following mods:***_
+### ***AfterSolarSystem is compatible with (or provides support for) the following mods***
 - [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
 - [Distant Object Enhancement](https://spacedock.info/mod/2274/Distant%20Object%20Enhancement%20Continued)
@@ -38,12 +50,12 @@ _**So how does ASS, a large-scale Planet Pack Mod similar to RSS better performa
 - [KerbalKonstructs](https://github.com/KSP-RO/Kerbal-Konstructs/releases)
 
 
-### _***AfterSolarSystem is not compatible with the following mods:***_
+### ***AfterSolarSystem is not compatible with the following mods***
 - External visual mods (RVE, RSSVE, EVO, etc.)
 - External planet mods (RealSolarSystem, AfterKerbin, BeyondHome, etc.)
 - Principia
 
-### _***Performance requirements:***_
+### ***Performance requirements***
   *Does AfterSolarSystem Mod require the same or higher computer performance than RealSolarSystem?* 
   
   Not exactly, when AfterSolarSystem Mod is used with scatterer and StockVolumetricClouds Mod, the RAM usage of the computer is only less than 6GB. It even runs on my grandmother's 2015 Samsung laptop (i5-5005U, DDR3 8G RAM, 500GB HDD, Intel HD Graphics). 
@@ -57,10 +69,10 @@ So , I **recommend** that your computer best meet the following requirements:
 
 ***
 
-#  _****Mod Installation****_
+#  ***Mod Installation***
 ![Uranus](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/5914165a-b08b-4e29-8289-a66c5dde6fa0)
 
-### _****Requirements:****_
+### ***Requirements***
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
 - [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)
@@ -68,17 +80,17 @@ So , I **recommend** that your computer best meet the following requirements:
 **↑ Download the files above and unzip them, then copy them into [KSP_Root]/GameData**
 
 
-#### _****In-game settings：****_
+#### ***In-game settings***
 
 - *Check if you have "[KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)" installed. If yes, turn the option "Maneuver Tool" off in your gameplay settings. If you don't follow this step, you "may" experience a extremely laggy gameplay once you are inflight.*
 - *Upon starting the game ***MUST*** go to settings and Enable terrain scatters and turn the density up to 100% for key features of the mod to work!*
 
 ***
 
-# Contact or learn more
+# ***Contact or learn more***
 ![About](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/14263392-67fe-4150-9a0a-6e595d6e4c11)
 
-## Contact Details:
+## ***Contact Details***
 
 - [Twitter（X）](https://x.com/SkySnow_01)
 - [Youtube](https://www.youtube.com/channel/UClSVMjhtlH6gieyetSRkRbg)
@@ -90,7 +102,7 @@ So , I **recommend** that your computer best meet the following requirements:
 
   _(If you are bored, feel free to chat with me between 0:00 -15:00 UTC)_
 
-## About Me:
+## ***About Me***
 
    Hey everyone, first of all, thank you very much for reading this text, even though you may not have downloaded our Mod.  I am the earliest author of AfterSolarSystem Mod. My Chinese name is "Xuewen Chen". This is the name I gave to my friend NewoEther. I like it very much. I am from Foshan City, Guangdong Province, China. Of course, you can also assume that I am from Guangzhou City.  Because I really like taking the subway to Guangzhou.    But I was born in an unhappy family, a family full of feudalism, such as patriarchy, preference for sons over daughters, family disputes, selfishness and other issues. But I was born in an unhappy family, a family full of feudalism, such as male supremacy, preference for boys over girls, family disputes, selfishness and other issues.
 I was born on October 24, 2003. At birth, I was assigned the gender assigned male. But then when I entered the first grade of elementary school, I discovered that I did not belong to this assigned gender. But at that time, I did not actively come out to my family. But since then, I know that I am a MtF, It has been like this until now. Later, as I grew up, I found that my father and mother were selfish. My father was used to the patriarchal system in the family. He believed that women should serve men humbly. He always valued boys over girls and was afraid that I would have feminine tendencies. In the past, he tried not to allow me to have long hair and tried to make me have a buzz cut. He also deliberately uglified me. For example, during elementary and junior high school, he deliberately asked me to wear shabby clothes when I went out, as if this would allow others to see that I was a man no matter how far away I was. He seemed to think that this would give my family face (Chinese traditional culture values ​​boys over girls). But later, as I grew up, I refused. The most extreme incident in my memory happened in November 2023. At that time, my father asked me to cut my hair short because a stranger said that my hair was long, otherwise he would not be allowed to go home. He didn't care that my mental health had been much worse before that, and he didn't care whether I was happy or not...   When I was in elementary school, junior high school, and vocational school, I suffered humiliation almost every day. They insulted me because I was black, a primary school student, etc. This was because all this came from my parents’ upbringing logic. They thought that I was still very young at that time and didn’t need to I have my own phone number and personal social media account, and I don't have my own mobile communication device, but this makes me completely an alien. They always say that you should hang out with your classmates more, but if you don’t have a mobile phone or a social media account, how will you contact your classmates? Is it possible that in the 21st century, you still write letters to contact classmates in the same city? Whenever the school organizes outings, the classmates around me all bring their mobile phones to take photos and share them, but I am the only one who walks in the scenic spot with nothing. When I graduated, my personal contact information was completely blank. In such an environment, my inferiority complex became more and more serious, I became more and more uncomfortable, my studies began to deteriorate, and I began to become useless.
@@ -106,7 +118,7 @@ In fact, my father, my grandma, and even my grandfather are selfish people, and 
 
 That's all you know about me. If you think I'm a loser and need to criticize me, I will listen patiently. I'm very lonely now, with no one to accompany me. If you are willing, you are welcome to chat with me. Welcome to become best friends or even lovers with me. If you are willing, you are welcome to provide me with some financial support. I will be very grateful to you.
 
- # Help or Support
+ # ***Help and Support***
  ![Help](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/937b6677-8614-469b-bc6c-5663ff3690ab)
  _If you recognize my work, or you are willing to provide me with some financial support, you are welcome to scan the QR code below and donate through WeChat play or Alipay.  Thank you～_
 
