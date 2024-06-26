@@ -17,8 +17,7 @@ _<p align="right">- 《夜空中最亮的星》 </p>_
   
   At the same time, there is still one last scientific expedition team lingering on Mars, but it will not be long before they had to leave there, as the ocean is boiling and evaporating which will cause creatures to die. Meanwhile, the celestial bodies at the edge of the solar system are also quietly changing under the subtle influence of the sun. Some gases that once existed in solid form are evaporating, and oceans composed of liquid gas has appeared on the dark and distant world. We know very little about those mysterious dark worlds, which are waiting for us to explore and unearth their unknown dusty history.
 
-# ***Advantage***
-
+## ***Advantage***
 Compared to `RealSolarSystem`, `AfterSolarSystem` adds many assumptions and ideas to simulate the ﻿scenario of the solar system billions of years later. Colonizing Mars, terraforming Titan, capturing rogue planets, some hypothetical celestial bodies in the solar system, are all included in the mod. Although these sci-fi ideas are divorced from the rationality of reality, they make the game more interesting. In contrast, `RSS`, which is entirely based on the reality, may let you feel boring and lifeless when playing. In `ASS`, however, almost every celestial body has surface structural features like plants, rocks, ice spikes, floating islands, as well as a variety of liquid lakes, such as liquid nitrogen lakes, metallic hydrogen lakes, supercritical fluid lakes and so on. It even allows you to land on the core of a gas planet. Additionally, some celestial bodies with high temperature or extremely high atmospheric pressure are waiting for you to explore. I promise that they will make your gaming experience more interesting.
 
 ***
