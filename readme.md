@@ -37,7 +37,7 @@ ASS balances performance and visual effects so that low-performance computers ca
 
 ***
 
-# ***Compatibility and Hardware Requirements***
+# ***Compatibility***
 ![Mercury](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/e86128d4-0659-4466-a221-a8807313759f)
 
 ### ***AfterSolarSystem is compatible with (or provides support for) the following mods***
@@ -69,7 +69,7 @@ So , I **recommend** that your computer best meet the following requirements:
 
 ***
 
-#  ***Mod Installation***
+#  ***Installation***
 
 
 ### ***Requirements***
