@@ -56,7 +56,7 @@ ASS balances performance and visual effects so that low-performance computers ca
 
 ## ***Hardware requirements***
 
-I used i9-9900KF + 16GB RAM + GTX1070 to make and run my mod.  But I have tried it, and even on a 2015 Samsung laptop (i3-5005U+DDR3 12GB, +HD630) it can run smoothly.
+I used i9-9900KF + 16GB RAM + GTX1060(6GB) to make and run my mod.  
 
 But I suggest that your hardware environment needs to meet the following requirements:
 
