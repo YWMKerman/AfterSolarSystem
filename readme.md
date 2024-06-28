@@ -56,16 +56,15 @@ ASS balances performance and visual effects so that low-performance computers ca
 - Principia
 
 ## ***Hardware requirements***
-  *Does AfterSolarSystem Mod require the same or higher computer performance than RealSolarSystem?* 
-  
-  Not exactly, when AfterSolarSystem Mod is used with scatterer and StockVolumetricClouds Mod, the RAM usage of the computer is only less than 6GB. It even runs on my grandmother's 2015 Samsung laptop (i5-5005U, DDR3 8G RAM, 500GB HDD, Intel HD Graphics). 
-  So it does not require high performance on your computer.  But considering that it is a Solar System rather than a Kerbol System, **if you need to play with the Realism Overhaul series of Mods, you will need at least 16GB of RAM or higher.**
- 
-So , I **recommend** that your computer best meet the following requirements:
 
-- A CPU with at least 2-4 Cores
-- Greater than or equal to 8G RAM
-- GPU with 2GB or more VRAM
+I used i9-9900KF + 16GB RAM + GTX1070 to make and run my mod.  But I have tried it, and even on a 2015 Samsung laptop (i3-5005U+DDR3 12GB, +HD630) it can run smoothly.
+
+But I suggest that your hardware environment needs to meet the following requirements:
+
+- ***CPU has at least 2 cores and 4 threads.***
+- ***At least 8-16GB or more RAM***
+- ***Have a graphics card with at least 1-2GB VRAM.***
+
 
 ***
 
