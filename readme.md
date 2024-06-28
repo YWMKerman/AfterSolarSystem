@@ -55,7 +55,7 @@ ASS balances performance and visual effects so that low-performance computers ca
 - External planet mods (RealSolarSystem, AfterKerbin, BeyondHome, etc.)
 - Principia
 
-### ***Performance requirements***
+## ***Hardware requirements***
   *Does AfterSolarSystem Mod require the same or higher computer performance than RealSolarSystem?* 
   
   Not exactly, when AfterSolarSystem Mod is used with scatterer and StockVolumetricClouds Mod, the RAM usage of the computer is only less than 6GB. It even runs on my grandmother's 2015 Samsung laptop (i5-5005U, DDR3 8G RAM, 500GB HDD, Intel HD Graphics). 
