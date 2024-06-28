@@ -38,7 +38,6 @@ ASS balances performance and visual effects so that low-performance computers ca
 ***
 
 # ***Compatibility***
-![Mercury](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/e86128d4-0659-4466-a221-a8807313759f)
 
 ### ***AfterSolarSystem is compatible with (or provides support for) the following mods***
 - [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
@@ -69,8 +68,7 @@ But I suggest that your hardware environment needs to meet the following require
 ***
 
 #  ***Installation***
-
-
+![Mercury](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/e86128d4-0659-4466-a221-a8807313759f)
 ### ***Requirements***
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
