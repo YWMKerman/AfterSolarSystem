@@ -117,7 +117,7 @@ That's all you know about me. If you think I'm a loser and need to criticize me,
 
  # ***Help and Support***
  ![Help](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/937b6677-8614-469b-bc6c-5663ff3690ab)
- _If you recognize my work, or you are willing to provide me with some financial support, you are welcome to scan the QR code below and donate through WeChat play or Alipay.  Thank you～_
+ _If you recognize my work, or you are willing to provide me with some financial support, you are welcome to scan the QR code below and donate through WeChat Pay or Alipay.  Thank you～_
 
 
 
