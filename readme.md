@@ -93,9 +93,6 @@ But I suggest that your hardware environment needs to meet the following require
 - [Youtube](https://www.youtube.com/channel/UClSVMjhtlH6gieyetSRkRbg)
 - [Bilibili](https://space.bilibili.com/443343766)  
 - Mail ： YWMKerman@gmail.com
-- QQ : 2829802773
-- WeChat : User_20181127
-- Telephone Number : + 86 17304017166
 
   _(If you are bored, feel free to chat with me between 0:00 -15:00 UTC)_
 
