@@ -85,7 +85,8 @@ But I suggest that your hardware environment needs to meet the following require
 ***
 
 # ***Contact or learn more***
-![About](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/14263392-67fe-4150-9a0a-6e595d6e4c11)
+![GenshinAbout](https://github.com/user-attachments/assets/843b72ed-c5c2-4c94-9244-be19447932c9)
+
 
 ## ***Contact Details***
 
