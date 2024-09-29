@@ -38,7 +38,7 @@ ASS balances performance and visual effects so that low-performance computers ca
 ***
 
 # ***Compatibility***
-
+![GenshinAbout](https://github.com/user-attachments/assets/843b72ed-c5c2-4c94-9244-be19447932c9)
 ### ***AfterSolarSystem is compatible with (or provides support for) the following mods***
 - [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
@@ -85,7 +85,7 @@ But I suggest that your hardware environment needs to meet the following require
 ***
 
 # ***Contact or learn more***
-![GenshinAbout](https://github.com/user-attachments/assets/843b72ed-c5c2-4c94-9244-be19447932c9)
+
 
 
 ## ***Contact Details***
