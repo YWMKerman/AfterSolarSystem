@@ -43,7 +43,7 @@ ASS balances performance and visual effects so that low-performance computers ca
 - [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
 - [Scatterer](https://spacedock.info/mod/141/Scatterer)
 - [Distant Object Enhancement](https://spacedock.info/mod/2274/Distant%20Object%20Enhancement%20Continued)
-- [TUFX]([https://github.com/shadowmage45/TUFX/releases](https://github.com/KSPModStewards/TUFX/releases))
+- [TUFX](https://github.com/KSPModStewards/TUFX/releases)
 - [Parallax 1.3.1](https://github.com/Gameslinx/Tessellation/releases)
 - [Stock Volumetric Clouds](https://www.patreon.com/posts/true-volumetric-77198227)
 - [KerbalKonstructs](https://github.com/KSP-RO/Kerbal-Konstructs/releases)
