@@ -47,6 +47,8 @@ ASS balances performance and visual effects so that low-performance computers ca
 - [Parallax 1.3.1](https://github.com/Gameslinx/Tessellation/releases)
 - [Stock Volumetric Clouds](https://www.patreon.com/posts/true-volumetric-77198227)
 - [KerbalKonstructs](https://github.com/KSP-RO/Kerbal-Konstructs/releases)
+- [Sigma Replacements (Skybox)](https://github.com/Sigma88/Sigma-Replacements/wiki)
+- [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases)
 
 
 ### ***AfterSolarSystem is not compatible with the following mods***
