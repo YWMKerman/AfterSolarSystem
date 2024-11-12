@@ -49,12 +49,11 @@ ASS balances performance and visual effects so that low-performance computers ca
 - [KerbalKonstructs](https://github.com/KSP-RO/Kerbal-Konstructs/releases)
 - [Sigma Replacements (Skybox)](https://github.com/Sigma88/Sigma-Replacements/wiki)
 - [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases)
-
+- [Principia](https://github.com/mockingbirdnest/Principia) (You need to manually ***DELETE*** the file "initial_state_jd_2433282_500000000***" It is located in: GameData/Principia/real_solar_system）
 
 ### ***AfterSolarSystem is not compatible with the following mods***
 - External visual mods (RVE, RSSVE, EVO, etc.)
 - External planet mods (RealSolarSystem, AfterKerbin, BeyondHome, etc.)
-- Principia
 
 ## ***Hardware requirements***
 
