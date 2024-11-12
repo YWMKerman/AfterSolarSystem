@@ -40,15 +40,13 @@ ASS balances performance and visual effects so that low-performance computers ca
 # ***Compatibility***
 ![GenshinAbout](https://github.com/user-attachments/assets/843b72ed-c5c2-4c94-9244-be19447932c9)
 ### ***AfterSolarSystem is compatible with (or provides support for) the following mods***
-- [Environmental Visual Enhancements](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases)
-- [Scatterer](https://spacedock.info/mod/141/Scatterer)
-- [Distant Object Enhancement](https://spacedock.info/mod/2274/Distant%20Object%20Enhancement%20Continued)
-- [TUFX](https://github.com/KSPModStewards/TUFX/releases)
-- [Parallax 1.3.1](https://github.com/Gameslinx/Tessellation/releases)
-- [Stock Volumetric Clouds](https://www.patreon.com/posts/true-volumetric-77198227)
-- [KerbalKonstructs](https://github.com/KSP-RO/Kerbal-Konstructs/releases)
-- [Sigma Replacements (Skybox)](https://github.com/Sigma88/Sigma-Replacements/wiki)
+
+- [Parallax1.3.1](https://github.com/Gameslinx/Tessellation/releases)
 - [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases)
+- [KerbalKonstructs](https://github.com/KSP-RO/Kerbal-Konstructs/releases)
+- [Stock Volumetric Clouds](https://www.patreon.com/posts/true-volumetric-77198227)
+- [Distant Object Enhancement](https://spacedock.info/mod/2274/Distant%20Object%20Enhancement%20Continued)
+- [Sigma Replacements (Skybox)](https://github.com/Sigma88/Sigma-Replacements/wiki)
 - [Principia](https://github.com/mockingbirdnest/Principia)
   ( You need to ***DELETE*** file"*initial_state_jd_2433282_500000000*" It at: **GameData/Principia/real_solar_system**）
 
