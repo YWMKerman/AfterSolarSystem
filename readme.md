@@ -76,6 +76,8 @@ But I suggest that your hardware environment needs to meet the following require
 
 **↑ Download the files above and unzip them, then copy them into [KSP_Root]/GameData**
 
+#### ***before opening the game:***
+- If you installed [Principia](https://github.com/mockingbirdnest/Principia), you must ***DELETE*** the file named "*initial_state_jd_2433282_500000000*" !!! It is located in "GameData/Principia/real_solar_system"
 
 #### ***In-game settings***
 
