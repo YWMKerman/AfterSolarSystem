@@ -44,12 +44,12 @@ ASS balances performance and visual effects so that low-performance computers ca
 - Scatterer
 - EnvironmentalVisualEnhancements
 - Distant Object Enhancement
-- Stock Volumetric Clouds
 - Parallax 1.3.1
 - PlanetShine
 - Sigma Replacements (Skybox)
 
 - KerbalKonstructs
+- FerramAerospaceResearch
 - Principia
   ( You need to ***DELETE*** file"*initial_state_jd_2433282_500000000*" It at: **GameData/Principia/real_solar_system**）
 
