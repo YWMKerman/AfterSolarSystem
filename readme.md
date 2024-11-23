@@ -18,7 +18,8 @@ _<p align="right">- 《夜空中最亮的星》 </p>_
   At the same time, there is still one last scientific expedition team lingering on Mars, but it will not be long before they had to leave there, as the ocean is boiling and evaporating which will cause creatures to die. Meanwhile, the celestial bodies at the edge of the solar system are also quietly changing under the subtle influence of the sun. Some gases that once existed in solid form are evaporating, and oceans composed of liquid gas has appeared on the dark and distant world. We know very little about those mysterious dark worlds, which are waiting for us to explore and unearth their unknown dusty history.
 
 # ***Advantages Compared to RealSolorSystem***
-![Uranus](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/5914165a-b08b-4e29-8289-a66c5dde6fa0)
+![Uranus_island](https://github.com/user-attachments/assets/c01a3aa0-a3d2-47c7-8da4-c999a106c4eb)
+
 - Focused more on sci-fi ideas than reality
 
 Compared to `RealSolarSystem`, `AfterSolarSystem` adds many assumptions and ideas which are based on science fictions to simulate the ﻿scenario of the solar system billions of years later. Including colonizing Mars, terraforming Titan, capturing rogue planets, and some hypothetical celestial bodies. Although these sci-fi ideas are divorced from the rationality of reality, they make the game more interesting. In contrast, `RSS` focuses more on reality.
