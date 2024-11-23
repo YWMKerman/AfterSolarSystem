@@ -38,7 +38,7 @@ ASS balances performance and visual effects so that low-performance computers ca
 ***
 
 # ***Compatibility***
-![GenshinAbout](https://github.com/user-attachments/assets/843b72ed-c5c2-4c94-9244-be19447932c9)
+![Titan](https://github.com/user-attachments/assets/e0cd5bdd-1620-4743-8184-b94706870f28)
 ### ***AfterSolarSystem is compatible with (or provides support for) the following mods***
 
 - Scatterer
