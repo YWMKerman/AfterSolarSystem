@@ -34,10 +34,9 @@ namespace AfterSolarSystem
         {
             string szTextureFolderPath = $"{KSPUtil.ApplicationRootPath}GameData{Path.AltDirectorySeparatorChar}AfterSolarSystem-Textures";
 
-            // Localized messages
             string szUserMessage = Localizer.Format("#InstallationChecker_MissingTextures");
             string title = Localizer.Format("#InstallationChecker_Title");
-            string buttonText = Localizer.Format("#InstallationChecker_Download");
+            string buttonText = Localizer.Format("#InstallationChecker_DownloadAndExit");
 
             if (!Directory.Exists(szTextureFolderPath))
             {
@@ -61,6 +60,7 @@ namespace AfterSolarSystem
                             delegate
                             {
                                 OpenASSTexturesDownloadPage();
+                                QuitGame();
                             },
                             140.0f,
                             30.0f,
@@ -84,10 +84,10 @@ namespace AfterSolarSystem
             {
                 Debug.Log("[AfterSolarSystem] Conflicting Principia file detected!");
 
-                // Localized messages
                 string warningMessage = Localizer.Format("#InstallationChecker_PrincipiaConflict");
                 string title = Localizer.Format("#InstallationChecker_Title");
-                string buttonText = Localizer.Format("#InstallationChecker_Close");
+                string openAndExitButtonText = Localizer.Format("#InstallationChecker_OpenAndExit");
+                string closeButtonText = Localizer.Format("#InstallationChecker_Close");
 
                 PopupDialog.SpawnPopupDialog
                 (
@@ -103,10 +103,22 @@ namespace AfterSolarSystem
                         new DialogGUIFlexibleSpace(),
                         new DialogGUIButton
                         (
-                            buttonText,
+                            openAndExitButtonText,
                             delegate
                             {
-                                Debug.Log("[AfterSolarSystem] User acknowledged the Principia warning.");
+                                OpenPrincipiaFolder(principiaFilePath);
+                                QuitGame();
+                            },
+                            140.0f,
+                            30.0f,
+                            true
+                        ),
+                        new DialogGUIButton
+                        (
+                            closeButtonText,
+                            delegate
+                            {
+                                Debug.Log("[AfterSolarSystem] User closed the Principia warning dialog.");
                             },
                             140.0f,
                             30.0f,
@@ -124,6 +136,37 @@ namespace AfterSolarSystem
         private void OpenASSTexturesDownloadPage()
         {
             Application.OpenURL("https://github.com/YWMKerman/AfterSolarSystem/releases");
+        }
+
+        private void OpenPrincipiaFolder(string filePath)
+        {
+            try
+            {
+                string folderPath = Path.GetDirectoryName(filePath);
+                if (Directory.Exists(folderPath))
+                {
+                    System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo
+                    {
+                        FileName = folderPath,
+                        UseShellExecute = true,
+                        Verb = "open"
+                    });
+                }
+                else
+                {
+                    Debug.LogWarning("[AfterSolarSystem] The specified folder does not exist: " + folderPath);
+                }
+            }
+            catch (Exception ex)
+            {
+                Debug.LogError("[AfterSolarSystem] Failed to open folder: " + ex);
+            }
+        }
+
+        private void QuitGame()
+        {
+            Debug.Log("[AfterSolarSystem] Quitting the game due to critical installation issues.");
+            Application.Quit();
         }
     }
 }
