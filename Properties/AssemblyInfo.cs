@@ -2,13 +2,13 @@
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("The AfterSolarSystem Mod")]
+[assembly: AssemblyTitle("AfterSolarSystem Mod Installation Checker")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("")]
-[assembly: AssemblyCopyright("YWMKerman")]
-[assembly: AssemblyTrademark("YWM_Studio")]
+[assembly: AssemblyCompany("YWM_Studio")]
+[assembly: AssemblyProduct("AfterSolarSystem")]
+[assembly: AssemblyCopyright("陈雪雯  Xuewen. Chen")]
+[assembly: AssemblyTrademark("YWMKerman")]
 [assembly: AssemblyCulture("")]
 
 [assembly: ComVisible(false)]
@@ -20,6 +20,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyFileVersion("@MAJOR@.@MINOR@.@PATCH@.@BUILD@")]
 #else
 [assembly: AssemblyVersion("0.0.0.0")]
-[assembly: AssemblyFileVersion("114.514.191.9810")]
+[assembly: AssemblyFileVersion("24.4.5.0")]
 #endif
 
