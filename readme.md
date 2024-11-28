@@ -17,16 +17,12 @@ _<p align="right">- 《夜空中最亮的星》 </p>_
   
   At the same time, there is still one last scientific expedition team lingering on Mars, but it will not be long before they had to leave there, as the ocean is boiling and evaporating which will cause creatures to die. Meanwhile, the celestial bodies at the edge of the solar system are also quietly changing under the subtle influence of the sun. Some gases that once existed in solid form are evaporating, and oceans composed of liquid gas has appeared on the dark and distant world. We know very little about those mysterious dark worlds, which are waiting for us to explore and unearth their unknown dusty history.
 
-# ***Advantages Compared to RealSolorSystem***
+## ***Advantages Compared to RealSolorSystem***
 ![Uranus_island](https://github.com/user-attachments/assets/c01a3aa0-a3d2-47c7-8da4-c999a106c4eb)
 
-- Focused more on sci-fi ideas than reality
+AfterSolarSystem Mod is as reasonable as possible while adding many bold ideas to simulate the scene of the solar system billions of years later. Including colonizing Mars, transforming Titan, capturing wandering planets, and some hypothetical celestial bodies (tested to ensure that they will not disrupt the stability of the solar system itself). In addition, it also allows you to dive into the core of a gaseous planet to explore the turbid world beneath the hundreds of thousands of meters of metallic hydrogen ocean. Or visit the cold world on some dwarf planets at the edge of the solar system, where the liquid in the ocean is no longer water, but liquid nitrogen. Or you can also reach the more distant Oort Cloud boundary, where there is a huge wandering planet passing through the solar system, near it there are many huge and vacuum rocky worlds, and there is also a world with a thick atmosphere and a toxic surface filled with liquid carbon dioxide. If you don't like long voyages, then we might as well go inward and visit the three dying worlds, which are now covered by seas of hot lava. The traces on the surface of one of the three lava worlds have not been completely destroyed. It still has the last traces left by humans...
 
-Compared to `RealSolarSystem`, `AfterSolarSystem` adds many assumptions and ideas which are based on science fictions to simulate the ﻿scenario of the solar system billions of years later. Including colonizing Mars, terraforming Titan, capturing rogue planets, and some hypothetical celestial bodies. Although these sci-fi ideas are divorced from the rationality of reality, they make the game more interesting. In contrast, `RSS` focuses more on reality.
-
-- Better performace
-
-ASS ensures the minimum occupation of system resources by reasonably allocating resources, without affecting the visual effects too much. It does this by using some optimizations listed below.
+ASS ensures the minimum occupation of system resources by allocating resources as reasonably as possible, while showing the most powerful visual effects to the greatest extent possible so as to reach at least the level of RealSolarSystem+RVE，So, how does it optimize your system resource usage?
 
 1. The texture resolution is customized for each celestial body depending on the specific characteristics of the planet.
 2. The features on the planetary surface are compressed to the maximum extent without affecting the visual effect.
