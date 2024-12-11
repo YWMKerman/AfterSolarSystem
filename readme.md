@@ -10,7 +10,7 @@ _<p align="right">- 《夜空中最亮的星》 </p>_
 ***
 # ***Introduction***
 
-  `AfterSolarSystem` (`ASS` for short) is a KSP plugin that brings you to the last glorious moment of the sun, and also a fan work of `RealSolarSystem` and `BeforeSolarSystem`.
+  `AfterSolarSystem` (`ASS` for short) This is a KSP plugin that allows you to witness the last glorious moment of the sun in a parallel montage method, and also a fan work of `RealSolarSystem` and `BeforeSolarSystem`.
 
   In the timeline of `AfterSolarSystem`, the sun has just left the Subgiant stage and enters the red giant stage, whenever the sun's habitable zone has been moving outside the asteroid belt. It causes the temperatures of Europa, Ganymede, and Callisto to rise above 0°C, which is enough for the ice to melt into liquid water, allowing them to briefly have thin atmospheres and oceans. However, almost no one chooses to stay on these three satellites.
   They continues to travel toward the outer solar system and reaches Titan, which will be the last refuge for humans in the solar system before the solar helium flash, and the seeds of life will be sown on this satellite...
