@@ -78,7 +78,7 @@ But I suggest that your hardware environment needs to meet the following require
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [AfterSolarSystem-Textures](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
-- [Better Heightmap Algorithm] (https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases)
+- [Better Heightmap Algorithm](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases)
 - [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)
 
 **↑ Download the files above and unzip them, then copy them into [KSP_Root]/GameData**
