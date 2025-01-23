@@ -73,7 +73,7 @@ But I suggest that your hardware environment needs to meet the following require
 ***
 
 #  ***Installation***
-![Mercury](https://github.com/YWMKerman/AfterSolarSystem/assets/78585019/e86128d4-0659-4466-a221-a8807313759f)
+![Venus](https://github.com/user-attachments/assets/c6bd1816-c96a-423e-b975-3a63df90e46d)
 ### ***Requirements***
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [AfterSolarSystem-Textures](https://github.com/YWMKerman/AfterSolarSystem/releases)
