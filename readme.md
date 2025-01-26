@@ -47,7 +47,7 @@ ASS balances performance and visual effects so that low-performance computers ca
 - Scatterer
 - EnvironmentalVisualEnhancements
 - Distant Object Enhancement
-- Parallax 1.3.1
+- Parallax 
 - PlanetShine
 - Sigma Replacements (Skybox)
 
