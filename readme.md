@@ -88,7 +88,6 @@ But I suggest that your hardware environment needs to meet the following require
 
 #### ***In-game settings***
 
-- *Check if you have "[KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)" installed. If yes, turn the option "Maneuver Tool" off in your gameplay settings. If you don't follow this step, you "may" experience a extremely laggy gameplay once you are inflight.*
 - *Upon starting the game ***MUST*** go to settings and Enable terrain scatters and turn the density up to 100% for key features of the mod to work!*
 
 ***
