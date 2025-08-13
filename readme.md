@@ -80,6 +80,7 @@ But I suggest that your hardware environment needs to meet the following require
 - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
 - [Better Heightmap Algorithm](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases)
 - [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)
+- [AdvancedPQSTools](https://github.com/CharonSSS/AdvancedPQSTools/releases/tag/v1.2)
 
 **↑ Download the files above and unzip them, then copy them into [KSP_Root]/GameData**
 
