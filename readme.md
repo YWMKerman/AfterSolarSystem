@@ -42,6 +42,7 @@ ASS balances performance and visual effects so that low-performance computers ca
 
 # ***Compatibility***
 <img width="1904" height="803" alt="Titan" src="https://github.com/user-attachments/assets/d3b7a85d-28a9-4f64-883e-fab6d4e65301" />
+
 ### ***AfterSolarSystem is compatible with (or provides support for) the following mods***
 
 - Scatterer
