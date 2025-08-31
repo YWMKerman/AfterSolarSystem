@@ -24,8 +24,7 @@ The four rocky planets in the On the other hand solar system are now heading tow
 ## ***Advantages Compared to RealSolorSystem***
 ![Uranus_island](https://github.com/user-attachments/assets/c01a3aa0-a3d2-47c7-8da4-c999a106c4eb)
 
-ASS will restore the solar system in the early red giant stage as much as possible, and introduce a few sci-fi ideas such as transforming Mars to make it our home, as well as the vegetation on the surface of Titan, the moon, and the remaining relics on the surface of the earth...     If you consider that Neptune would probably be pretty lonely (because of the fall, only a few outer moons remain) you could even dive into Neptune's core and explore that windswept world.
-
+AfterSolarSystem attempts to recreate the solar system's early red giant phase as closely as possible, and allows users to enable or disable sci-fi scenarios in    "***Settings.cfg***"   These include allowing you to dive into the core of an ice giant like Neptune, hypothesize that the Sun has captured a super-Earth, explore the distant ninth planet, and more.  In addition to these, you can also visit the ruins and huge vegetation on Titan, or move your space center to the satellites of these gas planets, such as Callisto, Titan.    Of course, by default, the game will start from Mars, which is already habitable.
 
 
 ASS ensures the minimum occupation of system resources by allocating resources as reasonably as possible, while showing the most powerful visual effects to the greatest extent possible so as to reach at least the level of RealSolarSystem+RVE，So, how does it optimize your system resource usage?
