@@ -96,7 +96,16 @@ But I suggest that your hardware environment needs to meet the following require
 # ***Contact or learn more***
 
 ## ***Questions and Answers***
- **Q: Why does the Sun look so small in the AfterSolarSystem mod? Shouldn’t its radius expand to Earth’s orbit at the end of its life?**
+
+### **Q: Isn’t the Sun’s lifetime about 10 billion years? Why does AfterSolarSystem start at around 7 billion years in the future?**
+
+A: The often-quoted “10 billion year lifetime” refers only to the Sun’s main-sequence phase, when it steadily fuses hydrogen into helium. After this, the Sun enters new evolutionary stages—subgiant, red giant, and asymptotic giant branch (AGB)—before finally becoming a white dwarf. These later phases together last only a fraction of the Sun’s total lifetime, but they are also the most dramatic and transformative.
+
+In AfterSolarSystem, the setting begins roughly 7 billion years in the future, when the Sun has just left the subgiant phase and entered the early red giant phase. This provides a balance between realism and gameplay: the inner planets are already scorched, while icy moons and dwarf planets become more dynamic, but the Sun has not yet reached its extreme AGB stage that would make the game unplayable
+
+
+
+### **Q: Why does the Sun look so small in the AfterSolarSystem mod? Shouldn’t its radius expand to Earth’s orbit at the end of its life?**
  
    A: In reality, the Sun will eventually expand to a radius of about 1 AU during the AGB phase before contracting into a white dwarf. I actually considered implementing this in the 2020 pilot version of ASS, but it turned out to be impractical for several reasons:
 	
