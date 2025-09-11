@@ -73,7 +73,8 @@ But I suggest that your hardware environment needs to meet the following require
 ***
 
 #  ***Installation***
-![Venus](https://github.com/user-attachments/assets/c6bd1816-c96a-423e-b975-3a63df90e46d)
+![main](https://github.com/user-attachments/assets/de159d18-6d22-4536-8f5b-525b792d6dca)
+
 ### ***Requirements***
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [AfterSolarSystem-Textures](https://github.com/YWMKerman/AfterSolarSystem/releases)
@@ -94,7 +95,7 @@ But I suggest that your hardware environment needs to meet the following require
 ***
 
 # ***Contact or learn more***
-
+![Venus](https://github.com/user-attachments/assets/c6bd1816-c96a-423e-b975-3a63df90e46d)
 ## ***Questions and Answers***
 
 ### **Q: Isn’t the Sun’s lifetime about 10 billion years? Why does AfterSolarSystem start at around 7 billion years in the future?**
