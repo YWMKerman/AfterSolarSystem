@@ -73,8 +73,7 @@ But I suggest that your hardware environment needs to meet the following require
 ***
 
 #  ***Installation***
-![main](https://github.com/user-attachments/assets/de159d18-6d22-4536-8f5b-525b792d6dca)
-
+![main](https://github.com/user-attachments/assets/a5dae1f4-402a-4fef-afb6-33d50d8e2b43)
 ### ***Requirements***
 - [AfterSolarSystem](https://github.com/YWMKerman/AfterSolarSystem/releases)
 - [AfterSolarSystem-Textures](https://github.com/YWMKerman/AfterSolarSystem/releases)
